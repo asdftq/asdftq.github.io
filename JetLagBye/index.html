@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jet Lag Bye - Your personalized jet lag prevention app. Get customized sleep schedules, light exposure recommendations, and science-based strategies to beat jet lag.">
+    <title>Jet Lag Bye - Beat Jet Lag with Science</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 3em;
+            font-weight: 700;
+        }
+        .header p {
+            font-size: 1.3em;
+            opacity: 0.95;
+            margin-top: 10px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .section {
+            background-color: #fff;
+            padding: 30px;
+            margin-bottom: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .section h2 {
+            color: #1a1a1a;
+            margin-top: 0;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .features-list {
+            list-style: none;
+            padding: 0;
+        }
+        .features-list li {
+            margin-bottom: 20px;
+            padding-left: 35px;
+            position: relative;
+        }
+        .features-list li::before {
+            content: '✈️';
+            position: absolute;
+            left: 0;
+            font-size: 20px;
+        }
+        .app-store-badge {
+            display: inline-block;
+            margin-top: 20px;
+            background-color: #000;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.3s;
+        }
+        .app-store-badge:hover {
+            background-color: #222;
+        }
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .pricing-card {
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+        }
+        .pricing-card.pro {
+            border-color: #667eea;
+            background-color: #f8f9ff;
+        }
+        .price {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            margin: 10px 0;
+        }
+        .screenshots {
+            text-align: center;
+        }
+        .screenshots img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            margin-top: 40px;
+            background-color: #f5f5f5;
+            font-size: 0.9em;
+            color: #666;
+        }
+        footer a {
+            color: #667eea;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            .pricing-grid {
+                grid-template-columns: 1fr;
+            }
+            .header h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>Jet Lag Bye</h1>
+        <p>Beat jet lag with personalized, science-based prevention plans</p>
+    </header>
+
+    <div class="container">
+
+        <section class="section">
+            <h2>About Jet Lag Bye</h2>
+            <p>Jet Lag Bye is your personal jet lag prevention companion. Using proven scientific methods and your specific travel details, we create customized plans to help you adjust your circadian rhythm before, during, and after your trip.</p>
+            <p>Simply enter your departure and arrival locations with dates, and receive a day-by-day plan including sleep schedules, light exposure timing, caffeine recommendations, and optional melatonin suggestions.</p>
+        </section>
+
+        <section class="section">
+            <h2>Key Features</h2>
+            <ul class="features-list">
+                <li><strong>Personalized Plans:</strong> Custom jet lag prevention strategies based on your specific travel itinerary and timezone changes</li>
+                <li><strong>Sleep Schedule Adjustment:</strong> Gradual pre-trip sleep adjustments to minimize jet lag impact</li>
+                <li><strong>Light Exposure Guidance:</strong> Precise timing for seeking or avoiding bright light to reset your body clock</li>
+                <li><strong>Smart Caffeine Strategy:</strong> Recommendations for when to consume or avoid caffeine for optimal adjustment</li>
+                <li><strong>Round Trip Support:</strong> Separate plans for outbound and return journeys to keep you adjusted throughout your trip</li>
+                <li><strong>Notification Reminders:</strong> Optional alerts for sleep times, light exposure, and other recommendations</li>
+                <li><strong>Travel History:</strong> Save and revisit your past jet lag plans for reference</li>
+                <li><strong>Dark Mode Support:</strong> Easy on the eyes interface that adapts to your device settings</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>How It Works</h2>
+            <ol>
+                <li><strong>Enter Your Trip:</strong> Input your departure and arrival cities with travel dates</li>
+                <li><strong>Set Your Sleep Schedule:</strong> Tell us your normal bedtime and wake time</li>
+                <li><strong>Get Your Plan:</strong> Receive a personalized day-by-day jet lag prevention plan</li>
+                <li><strong>Follow Recommendations:</strong> Adjust your sleep, light exposure, and caffeine intake as suggested</li>
+                <li><strong>Arrive Refreshed:</strong> Minimize jet lag and enjoy your trip from day one!</li>
+            </ol>
+        </section>
+
+        <section class="section">
+            <h2>Pricing</h2>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3>Free</h3>
+                    <p class="price">$0</p>
+                    <ul style="list-style: none; padding: 0;">
+                        <li>✓ 1 free jet lag plan</li>
+                        <li>✓ Basic recommendations</li>
+                        <li>✓ Core features</li>
+                    </ul>
+                </div>
+                <div class="pricing-card pro">
+                    <h3>Pro</h3>
+                    <p class="price">$1.99/mo</p>
+                    <p style="font-size: 0.9em; color: #666;">or $14.99/year (save 37%)</p>
+                    <ul style="list-style: none; padding: 0;">
+                        <li>✓ Unlimited plans</li>
+                        <li>✓ Round trip support</li>
+                        <li>✓ Notification reminders</li>
+                        <li>✓ Trip history</li>
+                        <li>✓ Priority support</li>
+                    </ul>
+                    <p style="font-weight: bold; color: #667eea;">7-day free trial</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" style="text-align: center;">
+            <h2>Start Your Journey Without Jet Lag</h2>
+            <p>Download Jet Lag Bye today and say goodbye to travel fatigue!</p>
+            <a href="https://apps.apple.com/app/jet-lag-bye" class="app-store-badge" target="_blank">
+                Download on the App Store
+            </a>
+        </section>
+
+    </div>
+
+    <footer>
+        <a href="support.html">Support</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms of Service</a>
+        <p>© 2025 Jet Lag Bye. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
