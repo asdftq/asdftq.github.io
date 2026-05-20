@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="QuietSense helps you understand when everyday sound may carry through shared walls, rooms, or floors.">
+  <title>QuietSense - Quieter homes, kinder habits</title>
+  <style>
+    :root {
+      --ink: #071326;
+      --navy: #0b1a34;
+      --blue: #102945;
+      --mint: #9ee8c7;
+      --mint-deep: #42b887;
+      --cream: #fff4dd;
+      --paper: #f6fbf8;
+      --line: rgba(7, 19, 38, 0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: linear-gradient(180deg, #f8fcfb 0%, #edf7f3 100%);
+    }
+    .hero {
+      min-height: 86vh;
+      display: grid;
+      place-items: center;
+      padding: 56px 20px 32px;
+      background:
+        radial-gradient(circle at 74% 24%, rgba(158, 232, 199, 0.34), transparent 34%),
+        radial-gradient(circle at 18% 20%, rgba(255, 244, 221, 0.9), transparent 32%),
+        linear-gradient(160deg, #ffffff 0%, #edf7f3 100%);
+    }
+    .wrap {
+      width: min(1040px, 100%);
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 52px;
+      align-items: center;
+    }
+    .icon {
+      width: min(260px, 68vw);
+      border-radius: 28%;
+      box-shadow: 0 28px 80px rgba(16, 41, 69, 0.28);
+    }
+    .kicker {
+      color: #267a5a;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 13px;
+    }
+    h1 {
+      margin: 14px 0 16px;
+      font-size: clamp(44px, 8vw, 78px);
+      line-height: 0.95;
+      letter-spacing: 0;
+    }
+    .lead {
+      margin: 0;
+      max-width: 620px;
+      font-size: clamp(18px, 2.4vw, 24px);
+      line-height: 1.35;
+      color: rgba(7, 19, 38, 0.74);
+    }
+    .actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 30px;
+    }
+    a.button {
+      min-height: 48px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 20px;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .primary { background: var(--navy); color: white; }
+    .secondary { color: var(--navy); border: 1px solid var(--line); background: rgba(255,255,255,0.64); }
+    .features {
+      padding: 54px 20px 70px;
+    }
+    .grid {
+      width: min(1040px, 100%);
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+    .card {
+      background: rgba(255,255,255,0.76);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: 0 18px 54px rgba(16, 41, 69, 0.08);
+    }
+    .card h2 {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+    .card p {
+      margin: 0;
+      line-height: 1.55;
+      color: rgba(7, 19, 38, 0.68);
+    }
+    footer {
+      padding: 28px 20px 42px;
+      text-align: center;
+      color: rgba(7, 19, 38, 0.58);
+    }
+    footer a {
+      color: var(--navy);
+      margin: 0 8px;
+      text-decoration: none;
+      font-weight: 650;
+    }
+    @media (max-width: 760px) {
+      .wrap { grid-template-columns: 1fr; gap: 28px; text-align: center; }
+      .lead { margin: 0 auto; }
+      .actions { justify-content: center; }
+      .grid { grid-template-columns: 1fr; }
+      .hero { min-height: auto; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <div>
+          <img class="icon" src="icon.png" alt="QuietSense app icon">
+        </div>
+        <div>
+          <div class="kicker">Sound awareness for shared homes</div>
+          <h1>QuietSense</h1>
+          <p class="lead">Understand when everyday sound may carry through walls, rooms, or floors, then get a simple calm signal and practical tips for a quieter home.</p>
+          <div class="actions">
+            <a class="button primary" href="support.html">Get support</a>
+            <a class="button secondary" href="privacy.html">Privacy</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="features">
+      <div class="grid">
+        <article class="card">
+          <h2>Simple live signal</h2>
+          <p>QuietSense turns microphone level and context into clear risk states instead of dense sound graphs.</p>
+        </article>
+        <article class="card">
+          <h2>Built for context</h2>
+          <p>Select your environment and activity so the app can reason about sound in a way that fits your home.</p>
+        </article>
+        <article class="card">
+          <h2>Privacy-first</h2>
+          <p>No speech transcription. Raw audio is not saved by default. History stores sound-level summaries.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="terms.html">Terms</a>
+    <p>&copy; 2026 Hwechul Cho. All rights reserved.</p>
+  </footer>
+</body>
+</html>
