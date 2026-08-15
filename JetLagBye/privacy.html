@@ -94,7 +94,7 @@
         <p class="effective-date">Last Updated: August 15, 2026</p>
 
         <div class="summary">
-            <strong>Privacy summary:</strong> Jet Lag Bye has no account system, developer-operated backend, advertising SDK, analytics SDK, or third-party SDK. We do not collect data from the App. Your trip, sleep, progress, and preference information stays on your device. The App Store privacy label is “Data Not Collected.”
+            <strong>Privacy summary:</strong> Jet Lag Bye has no account system, developer-operated backend, advertising SDK, analytics SDK, or third-party SDK. We do not collect data from the App. Your trip, sleep, progress, preference, and purchase-access information stays on your device. A non-identifying iOS Keychain marker records whether the device's free itinerary has been used and may remain after the App is deleted and reinstalled on that same device. We do not receive this marker. The App Store privacy label is “Data Not Collected.”
         </div>
 
         <h2>1. Scope</h2>
@@ -106,9 +106,10 @@
             <li><strong>Travel details:</strong> selected departure and arrival places, dates, times, time zones, and one-way or round-trip selection</li>
             <li><strong>Sleep information:</strong> normal bedtime and wake time, generated travel plans, Reset Sleep plans, and optional melatonin preferences</li>
             <li><strong>App activity:</strong> saved plan history, checklist progress, notification preferences, onboarding status, and review-prompt status</li>
-            <li><strong>Purchase access state:</strong> free-itinerary availability, unused Single Trip Plan credits, processed consumable transaction identifiers, and locally checked subscription entitlement status</li>
+            <li><strong>Purchase access state:</strong> a non-identifying first-itinerary eligibility marker in the iOS Keychain, unused Single Trip Plan credits, processed or revoked consumable transaction identifiers, and locally checked subscription entitlement status</li>
         </ul>
         <p>This information is used on your device to generate plans, remember preferences, show progress and history, schedule local notifications, and provide purchased access. It is not sent to us or stored on developer-controlled servers.</p>
+        <p>The Keychain marker records only whether the one-per-device free itinerary has already been used. It is not an account, advertising identifier, or device identifier. It may survive deletion and reinstallation of the App on the same device, but the marker does not transfer to another device; each device's eligibility is determined locally. Processed or revoked consumable transaction identifiers also remain local and are used only to prevent duplicate credit or remove access after an Apple revocation or refund. We do not receive any of these local access records.</p>
 
         <h2>3. Information We Do Not Collect</h2>
         <p>The App does not send us personal data, travel or sleep information, precise location, device identifiers, usage analytics, advertising data, diagnostics, contacts, photos, health records, or payment details. The App does not contain tracking technology and does not use data for advertising or profiling.</p>
@@ -125,7 +126,7 @@
         <p>If you allow notifications, the App schedules reminders locally through Apple's UserNotifications framework. Notification content and preferences are not sent to a developer server. You can change permission in iOS Settings and manage plan reminders inside the App.</p>
 
         <h2>7. Storage, Retention, and Security</h2>
-        <p>App data remains in the App's local storage and is protected by the security features of your device and iOS. It remains until you delete individual saved items, reset relevant settings, or delete the App. Device backups and restored device data are controlled by your iOS and iCloud settings and Apple's services.</p>
+        <p>Most App data remains in the App's local storage and is protected by the security features of your device and iOS. It remains until you delete individual saved items, reset relevant settings, or delete the App. The first-itinerary eligibility marker is stored separately in the iOS Keychain and may remain after App deletion or reinstallation on the same device. Device backups, restored device data, and Keychain behavior are controlled by iOS, your iCloud settings, and Apple's services.</p>
         <p>No method of storage is guaranteed to be completely secure. Keep your device and Apple Account protected with appropriate security controls.</p>
 
         <h2>8. Your Choices</h2>
@@ -133,7 +134,7 @@
             <li>Review and delete saved plans in the App's History screen.</li>
             <li>Change sleep and notification preferences inside the App.</li>
             <li>Disable notifications in iOS Settings.</li>
-            <li>Delete the App to remove its locally stored data from that device.</li>
+            <li>Delete the App to remove its ordinary locally stored data from that device. The non-identifying first-itinerary eligibility marker may remain in the iOS Keychain so reinstalling the App on the same device does not create another free itinerary.</li>
             <li>Manage subscriptions by following <a href="https://support.apple.com/118428" target="_blank" rel="noopener noreferrer">Apple's subscription instructions</a>.</li>
         </ul>
         <p>Because we do not receive your in-App data, we cannot retrieve or delete it from a developer server.</p>
