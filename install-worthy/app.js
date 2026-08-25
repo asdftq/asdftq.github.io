@@ -23,11 +23,12 @@ function createProject(project, installedId) {
   article.className = "project";
   if (project.id === installedId) article.classList.add("is-installed");
 
-  const mark = document.createElement("span");
-  mark.className = "project-mark";
-  mark.textContent = project.mark;
-  mark.setAttribute("aria-hidden", "true");
-  mark.style.setProperty("--project-color", project.color);
+  const icon = document.createElement("img");
+  icon.className = "project-icon";
+  icon.src = project.icon;
+  icon.alt = "";
+  icon.width = 42;
+  icon.height = 42;
 
   const copy = document.createElement("div");
   copy.className = "project-copy";
@@ -59,6 +60,6 @@ function createProject(project, installedId) {
     actions.append(anchor);
   }
 
-  article.append(mark, copy, actions);
+  article.append(icon, copy, actions);
   return article;
 }
