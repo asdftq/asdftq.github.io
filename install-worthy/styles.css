@@ -260,17 +260,15 @@ h1 {
   background: linear-gradient(90deg, rgba(227, 238, 230, .72), transparent 72%);
 }
 
-.project-mark {
-  display: grid;
-  place-items: center;
+.project-icon {
+  display: block;
   width: 42px;
   height: 42px;
   border-radius: 11px;
-  color: #fff;
-  background: var(--project-color, var(--green));
-  font-size: 13px;
-  font-weight: 850;
-  letter-spacing: .04em;
+  border: 1px solid rgba(28, 33, 29, .08);
+  background: #fff;
+  box-shadow: 0 5px 14px rgba(28, 33, 29, .09);
+  object-fit: cover;
 }
 
 .project-copy h3 {
