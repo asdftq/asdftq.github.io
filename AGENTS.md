@@ -12,6 +12,7 @@
   - Right Click Share: `../right-click-share/extension/icons/icon-128.png` → `install-worthy/icons/right-click-share.png`
 - If an icon changes in a product repository, update the hub in the same work item and verify the source and served files match by checksum.
 - Preserve the stable install identifiers `equilzer`, `focus-lane`, and `right-click-share`; extension install hooks depend on them.
+- On each recognized install URL, put the installed product's real icon, name, description, and first-use guidance in the hero. A catalog badge alone is not sufficient installation confirmation. Keep the free newsletter offer prominent beside it on desktop and directly below it on mobile.
 - Keep first-use copy truthful and brief. The hub must never receive extension settings, captured audio, tab addresses, selected content, or share payloads.
 - Keep hosted privacy pages consistent with the automatic first-install GitHub Pages visit.
 

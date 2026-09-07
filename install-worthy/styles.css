@@ -80,9 +80,60 @@ a {
 }
 
 .hero {
-  max-width: 760px;
-  padding: 92px 0 82px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  align-items: center;
+  gap: 48px;
+  padding: 56px 0;
 }
+
+.hero-icon:not([hidden]) {
+  display: block;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  margin-bottom: 24px;
+}
+
+.newsletter {
+  padding: 32px;
+  border-radius: 20px;
+  background: var(--green-dark);
+  color: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.newsletter .eyebrow { color: #f2cd75; }
+.newsletter h2 {
+  margin: 0;
+  font: 500 clamp(32px, 4vw, 42px)/1.08 ui-serif, Georgia, serif;
+  letter-spacing: -.035em;
+}
+.newsletter > p:not(.eyebrow) { color: #d9e8dc; }
+.newsletter .button-primary {
+  width: 100%;
+  gap: 10px;
+  margin-top: 10px;
+  min-height: 52px;
+  background: #f2cd75;
+  color: #193622;
+}
+.newsletter .button-primary:hover { background: #ffdf96; }
+.newsletter .fine-print { font-size: 12px; }
+.newsletter-preview {
+  display: inline-block;
+  padding: 12px 0 0;
+  font-size: 14px;
+  text-underline-offset: 4px;
+}
+.newsletter a:focus-visible { outline: 3px solid #f2cd75; outline-offset: 5px; }
+.first-step {
+  margin-top: 24px;
+  padding-left: 16px;
+  border-left: 3px solid var(--green);
+}
+.first-step strong { font-size: 13px; color: var(--green); }
+.first-step p { margin: 4px 0 0; color: #4f584f; font-size: 15px; }
 
 .eyebrow {
   margin: 0 0 13px;
@@ -104,17 +155,17 @@ h1 {
   max-width: 720px;
   margin: 0;
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
-  font-size: clamp(52px, 8vw, 82px);
+  font-size: clamp(42px, 5vw, 62px);
   font-weight: 500;
   letter-spacing: -.055em;
-  line-height: .96;
+  line-height: 1.05;
 }
 
 .hero-copy {
   max-width: 660px;
-  margin: 27px 0 0;
+  margin: 20px 0 0;
   color: #4f584f;
-  font-size: clamp(18px, 2.4vw, 22px);
+  font-size: 18px;
   line-height: 1.5;
 }
 
@@ -348,8 +399,14 @@ h1 {
   }
 
   .hero {
-    padding: 68px 0 64px;
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding: 32px 0;
   }
+
+  .hero-icon:not([hidden]) { width: 72px; height: 72px; margin-bottom: 18px; }
+  .newsletter { padding: 26px; }
+  .projects { padding-top: 32px; }
 
   .section-heading {
     grid-template-columns: 1fr;
@@ -372,7 +429,7 @@ h1 {
   }
 
   h1 {
-    font-size: 50px;
+    font-size: 42px;
   }
 
   .hero-actions {
