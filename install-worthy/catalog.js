@@ -29,7 +29,7 @@ window.INSTALL_WORTHY_CATALOG = [
       {
         platform: "Chrome",
         action: "Add to Chrome",
-        url: "https://chromewebstore.google.com/detail/work-mode-block-all-socia/dmijhfnjdfpaanlbahmklnhjkbhegepm"
+        url: "https://chromewebstore.google.com/detail/oogmofejcfflglfjhhpgmilhohnfckcb"
       }
     ]
   },

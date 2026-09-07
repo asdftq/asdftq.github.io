@@ -12,7 +12,13 @@
 
   if (installedProject) {
     document.title = `${installedProject.name} is ready — Install Worthy`;
-    document.getElementById("installedTitle").textContent = `${installedProject.name} is ready.`;
+    document.getElementById("heroEyebrow").textContent = "Thanks for installing";
+    document.getElementById("hero-title").textContent = `${installedProject.name} is ready.`;
+    document.getElementById("heroCopy").textContent = installedProject.description;
+    const heroIcon = document.getElementById("installedIcon");
+    heroIcon.src = installedProject.icon;
+    heroIcon.alt = `${installedProject.name} icon`;
+    heroIcon.hidden = false;
     document.getElementById("installedCopy").textContent = installedProject.firstStep;
     document.getElementById("installedNote").hidden = false;
   }

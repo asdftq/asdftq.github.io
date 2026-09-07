@@ -21,22 +21,24 @@
     </header>
 
     <section class="hero" aria-labelledby="hero-title">
-      <p class="eyebrow">A practical software letter</p>
-      <h1 id="hero-title">Find the tools worth keeping.</h1>
-      <p class="hero-copy">Install Worthy is a short email about useful software: what it does, why it matters, and whether it deserves a place on your device.</p>
-      <div class="hero-actions">
-        <a class="button button-primary" href="https://installworthy.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Get Install Worthy free</a>
-        <a class="button button-secondary" href="#projects">Browse my projects</a>
+      <div class="welcome">
+        <img id="installedIcon" class="hero-icon" width="96" height="96" alt="" hidden>
+        <p class="eyebrow" id="heroEyebrow">Small tools. A better everyday.</p>
+        <h1 id="hero-title">Find your next favorite tool.</h1>
+        <p class="hero-copy" id="heroCopy">Useful software, made with care. Explore the collection below and find something that makes your day a little easier.</p>
+        <div class="first-step" id="installedNote" hidden>
+          <strong>Start here</strong>
+          <p id="installedCopy"></p>
+        </div>
       </div>
-      <p class="fine-print">Short, practical, and easy to leave whenever you want.</p>
-    </section>
-
-    <section class="installed-note" id="installedNote" aria-live="polite" hidden>
-      <span class="installed-check" aria-hidden="true">✓</span>
-      <div>
-        <strong id="installedTitle"></strong>
-        <p id="installedCopy"></p>
-      </div>
+      <aside class="newsletter" aria-labelledby="newsletter-title">
+        <p class="eyebrow">Install Worthy · Free newsletter</p>
+        <h2 id="newsletter-title">Your next great find.<br>In your inbox.</h2>
+        <p>More useful software, from the maker of these tools. What it does, why it matters, and whether it’s worth installing.</p>
+        <a class="button button-primary" href="https://installworthy.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Subscribe free on Substack <span aria-hidden="true">↗</span></a>
+        <p class="fine-print">Short, practical emails. Unsubscribe anytime.</p>
+        <a class="newsletter-preview" href="https://installworthy.substack.com/" target="_blank" rel="noopener noreferrer">Read it first →</a>
+      </aside>
     </section>
 
     <section class="projects" id="projects" aria-labelledby="projects-title">
