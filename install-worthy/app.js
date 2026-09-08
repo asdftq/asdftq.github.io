@@ -5,6 +5,7 @@
   const installedId = new URLSearchParams(window.location.search).get("installed");
   const installedProject = catalog.find((project) => project.id === installedId);
   const projectList = document.getElementById("projectList");
+  projectList.replaceChildren();
 
   for (const project of catalog) {
     projectList.append(createProject(project, installedId));
@@ -13,7 +14,7 @@
   if (installedProject) {
     document.title = `${installedProject.name} is ready — Install Worthy`;
     document.getElementById("heroEyebrow").textContent = "Thanks for installing";
-    document.getElementById("hero-title").textContent = `${installedProject.name} is ready.`;
+    document.getElementById("hero-title").textContent = `${installedProject.shortName || installedProject.name} is ready.`;
     document.getElementById("heroCopy").textContent = installedProject.description;
     const heroIcon = document.getElementById("installedIcon");
     heroIcon.src = installedProject.icon;
@@ -39,7 +40,10 @@ function createProject(project, installedId) {
   const copy = document.createElement("div");
   copy.className = "project-copy";
   const title = document.createElement("h3");
-  title.textContent = project.name;
+  const detailLink = document.createElement("a");
+  detailLink.href = `${project.id}/`;
+  detailLink.textContent = project.name;
+  title.append(detailLink);
   const description = document.createElement("p");
   description.textContent = project.description;
   copy.append(title, description);

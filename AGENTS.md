@@ -3,7 +3,10 @@
 ## Install Worthy welcome hub
 
 - `install-worthy/` is the single welcome page and project catalog for Equilzer, Focus Lane, Right Click Share, and future platform releases.
-- Keep the page Substack-first, simple, responsive, dependency-free, and usable without analytics, tracking scripts, remote code, external fonts, or a build step.
+- Keep the page Substack-first, simple, responsive, dependency-free, and usable without analytics, tracking scripts, remote code, external fonts, or a deployment build step.
+- After editing `catalog.js`, run `node install-worthy/sync-catalog.mjs` to update checked-in static HTML, product pages, and the scoped sitemap. Commit these artifacts together. Product pages and the catalog must work without JavaScript; preserve canonical URLs and truthful SoftwareApplication metadata. Do not invent ratings, reviews, or search-ranking guarantees.
+- Add only publicly released apps verified in the Hwechul Cho ASC profile and the public App Store. Mobile icons must be downloaded from the official Apple artwork URL at 128×128, with provenance recorded in the hub README. Never list review-pending apps as installable.
+- Native apps should offer the free newsletter optionally during first use and from Settings, never gate core functionality or auto-open a browser. Only an explicit tap may open the hub; send only the stable product id, never app/user data.
 - Manage product copy, first-use guidance, visibility, icons, and platform destinations in `install-worthy/catalog.js`. Add iOS, Android, browser, and web destinations to a product's `links` array; do not create platform-specific copies of the hub.
 - Every visible product must use its real published app icon. Never use initials, generic tiles, emoji, placeholder artwork, or an AI-generated approximation.
 - Store hub icons under `install-worthy/icons/` and copy them from the canonical product assets:
