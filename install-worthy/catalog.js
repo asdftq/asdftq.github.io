@@ -47,5 +47,38 @@ window.INSTALL_WORTHY_CATALOG = [
         url: "https://chromewebstore.google.com/detail/right-click-share/hbmhdadlnipjfaihpdfjpknbmdfnjhnd"
       }
     ]
+  },
+  {
+    id: "quietsense",
+    shortName: "QuietSense",
+    name: "QuietSense: Apartment dB Meter",
+    icon: "icons/quietsense.png",
+    description: "Estimate everyday apartment sound levels on your iPhone, with a free 60-second room check and practical next steps.",
+    firstStep: "Open QuietSense, choose your space and activity, and try your free 60-second check.",
+    details: "QuietSense processes sound levels on device without saving raw audio or transcribing speech. Nearby-room values are modeled estimates, not measurements of another room. It is not a certified, legal, or safety sound meter. Unlimited checks require QuietSense Pro.",
+    visible: true,
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6771237461" }]
+  },
+  {
+    id: "jet-lag-bye",
+    shortName: "Jet Lag Bye",
+    name: "Jet Lag Bye: Travel Sleep Plan",
+    icon: "icons/jet-lag-bye.png",
+    description: "Turn your itinerary into a day-by-day travel sleep plan with timing for sleep, light, and caffeine. Your first complete plan is free.",
+    firstStep: "Open Jet Lag Bye, set your usual sleep schedule, and enter your trip to create your first plan.",
+    details: "Plan one-way or round-trip travel, follow a travel-day timeline, and revisit saved plans on your device. Additional plans are available through a Single Trip Plan purchase or Annual Unlimited. Jet Lag Bye provides general educational guidance, not medical advice.",
+    visible: true,
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6747702706" }]
+  },
+  {
+    id: "timerbar",
+    shortName: "TimerBar",
+    name: "TimerBar: Presentation Timer",
+    icon: "icons/timerbar.png",
+    description: "Keep presentations, meetings, and focus sessions on time with a fullscreen clock and a live progress bar.",
+    firstStep: "Open TimerBar, choose a duration or end time, and start your timer.",
+    details: "Set a timer by duration or end time, pause or restart it, and optionally show remaining time. TimerBar+ adds premium themes, fonts, and colors. Available for iPhone and iPad.",
+    visible: true,
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6744717499" }]
   }
 ];
