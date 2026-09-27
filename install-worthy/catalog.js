@@ -64,9 +64,9 @@ window.INSTALL_WORTHY_CATALOG = [
     shortName: "Jet Lag Bye",
     name: "Jet Lag Bye: Travel Sleep Plan",
     icon: "icons/jet-lag-bye.png",
-    description: "Turn your itinerary into a day-by-day travel sleep plan with timing for sleep, light, and caffeine. Your first complete plan is free.",
+    description: "See your travel sleep plan in each city's local time, then save the full schedule as an image. Your first complete plan is free.",
     firstStep: "Open Jet Lag Bye, set your usual sleep schedule, and enter your trip to create your first plan.",
-    details: "Plan one-way or round-trip travel, follow a travel-day timeline, and revisit saved plans on your device. Additional plans are available through a Single Trip Plan purchase or Annual Unlimited. Jet Lag Bye provides general educational guidance, not medical advice.",
+    details: "Plan one-way or round-trip travel with clearly labeled local times for sleep, light, and caffeine. Save a full-plan image to Photos or revisit saved plans on your device. Additional plans are available through a Single Trip Plan purchase or Annual Unlimited. Jet Lag Bye provides general educational guidance, not medical advice.",
     visible: true,
     links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6747702706" }]
   },
