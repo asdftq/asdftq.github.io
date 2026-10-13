@@ -1,0 +1,10 @@
+{
+  "siteRevision": 1,
+  "appVersion": "0.1.20",
+  "status": "prelaunch",
+  "priceUSD": "2.99",
+  "purchaseType": "one-time",
+  "merchant": "Lemon Squeezy",
+  "checkoutURL": null,
+  "saleEnabled": false
+}
