@@ -1,2 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.asdftq.com/sitemap.xml
 Sitemap: https://asdftq.github.io/install-worthy/sitemap.xml
 Sitemap: https://asdftq.github.io/nobadge/sitemap.xml
