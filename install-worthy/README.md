@@ -10,7 +10,7 @@ All extension install flows point to this page with an `installed` query paramet
 
 Edit [`catalog.js`](catalog.js) for project copy, first-use hints, icons, and platform links. Product artwork lives in [`icons/`](icons/) and should match the published app icon. A project can have Chrome, iOS, Android, or web links without changing the page renderer. Set `visible: false` to stage an entry without showing it.
 
-Run `node install-worthy/sync-catalog.mjs` from the repository root after editing the catalog. It maintains the static catalog, product pages, and `install-worthy/sitemap.xml` from the same source. Commit the generated HTML too; hosting has no build step or dependencies. The page uses no analytics, remote scripts, or external fonts. Publish both `main` and `gh-pages` at <https://asdftq.github.io/install-worthy/>.
+Run `node install-worthy/sync-catalog.mjs` from the repository root after editing the catalog. It maintains the static catalog, product pages, and `install-worthy/sitemap.xml` from the same source. Commit the generated HTML too; hosting has no build step or dependencies. The page uses no analytics, remote scripts, or external fonts. Publish both `main` and `gh-pages` at <https://www.asdftq.com/install-worthy/>.
 
 ## Released mobile apps (verified 2026-09-07)
 

@@ -6,7 +6,7 @@ const root = fileURLToPath(new URL("./", import.meta.url));
 const context = { window: {} };
 vm.runInNewContext(readFileSync(`${root}catalog.js`, "utf8"), context);
 const projects = context.window.INSTALL_WORTHY_CATALOG.filter(p => p.visible !== false);
-const base = "https://asdftq.github.io/install-worthy/";
+const base = "https://www.asdftq.com/install-worthy/";
 const esc = value => String(value).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const json = value => JSON.stringify(value).replace(/</g, "\\u003c");
 const links = p => p.links.map(l => `<a class="project-link" href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.action || `Get for ${l.platform}`)}</a>`).join(" ");

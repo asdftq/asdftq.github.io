@@ -20,7 +20,7 @@ for (const p of projects) {
   const schema = JSON.parse(html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
   assert.equal(schema.name, p.name);
   assert.equal(schema.description, p.description);
-  assert(html.includes(`rel="canonical" href="https://asdftq.github.io/install-worthy/${p.id}/"`));
+  assert(html.includes(`rel="canonical" href="https://www.asdftq.com/install-worthy/${p.id}/"`));
   assert(html.includes("https://installworthy.substack.com/subscribe"));
   assert(!html.includes("Thanks for installing"));
   for (const link of p.links) {
@@ -30,6 +30,6 @@ for (const p of projects) {
     assert(index.includes(link.url));
   }
 }
-assert(index.includes('rel="canonical" href="https://asdftq.github.io/install-worthy/"'));
+assert(index.includes('rel="canonical" href="https://www.asdftq.com/install-worthy/"'));
 assert(!index.includes('JavaScript is needed'));
 console.log(`PASS: ${projects.length} catalog entries, exact-size icons, static links, canonical pages, and matching structured data.`);
