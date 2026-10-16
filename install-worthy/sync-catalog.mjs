@@ -23,11 +23,14 @@ for (const p of projects) {
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light">
 <title>${esc(p.name)} — Install Worthy</title><meta name="description" content="${esc(p.description)}"><link rel="canonical" href="${url}"><link rel="stylesheet" href="../styles.css?v=20260907-apps">
 <meta property="og:title" content="${esc(p.name)}"><meta property="og:description" content="${esc(p.description)}"><meta property="og:url" content="${url}"><meta property="og:type" content="website">
-<script type="application/ld+json">${json(schema)}</script></head>
+<script type="application/ld+json">${json(schema)}</script><link rel="stylesheet" href="/analytics.css">
+<script src="/analytics.js" defer></script>
+</head>
 <body><main class="page-shell"><header class="masthead"><a class="wordmark" href="../">← Install Worthy</a><span class="masthead-note">Apps by Derrick Cho</span></header>
 <section class="hero" aria-labelledby="hero-title"><div class="welcome"><img class="hero-icon" src="../${esc(p.icon)}" width="96" height="96" alt="${esc(p.name)} icon"><p class="eyebrow">${esc(p.links.map(l => l.platform).join(" · "))}</p><h1 id="hero-title">${esc(p.name)}</h1><p class="hero-copy">${esc(p.description)}</p><div class="project-actions">${links(p)}</div><div class="first-step"><strong>Start here</strong><p>${esc(p.firstStep)}</p></div></div>${newsletter}</section>
 <section class="projects" aria-labelledby="about-title"><h2 id="about-title">About ${esc(p.name)}</h2><p>${esc(p.details || p.description)}</p><p>Made by Derrick Cho. Check the official store listing for current availability, compatibility, pricing, and privacy details.</p><p><a href="../#projects">Explore all apps and Chrome extensions →</a></p></section>
-<footer class="footer"><span>Newsletter signup is optional. No app account required to browse.</span><a href="https://installworthy.substack.com/subscribe">Subscribe free</a></footer></main></body></html>\n`;
+<footer class="footer"><span>Newsletter signup is optional. No app account required to browse.</span><a href="https://installworthy.substack.com/subscribe">Subscribe free</a></footer></main><div class="site-data-note"><a href="/privacy.html">Website privacy</a><button type="button" data-analytics-settings hidden>Analytics settings</button></div>
+</body></html>\n`;
   mkdirSync(`${root}${p.id}`, { recursive: true });
   writeFileSync(`${root}${p.id}/index.html`, html);
 }
