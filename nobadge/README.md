@@ -2,7 +2,7 @@
 
 English static marketing and support site for NoBadge (`com.asdftq.nobadge`). Direct-sale distribution, USD 2.99 once through Lemon Squeezy. The public checkout is the verified Live product 1444435. Licensed update ZIPs are intentionally public under updates/; activation is enforced inside the app. Do not publish older unlicensed binaries or internal preparation kits.
 
-Run `node nobadge/check.mjs` and `node --check nobadge/feedback.js` from the repository root. Verify desktop and mobile layouts in Chrome, local links, captioned video playback, and feedback draft encoding. The feedback form only prepares a mailto draft on the device. It has no server, analytics, storage or automatic sending.
+Run `node nobadge/check.mjs` and `node --check nobadge/feedback.js` from the repository root. Verify desktop and mobile layouts in Chrome, local links, captioned video playback, and feedback draft encoding. The feedback form only prepares a mailto draft on the device. It has no form server, form-data analytics, form storage or automatic sending. Optional site-wide GA4 measures page visits only after consent and excludes all feedback fields; see `/privacy.html`.
 
 Native source captures: NoBadge 0.1.20 on macOS 26.5.1 (25F80), Apple Silicon; setup capture is the unchanged 0.1.18 guide. Creative sources and SHA-256 manifest live in the NoBadge repository under `Sales/`. All UI artwork comes from the actual installed app. The walkthrough is an illustrated screenshot sequence, not a continuous recording of Dock behavior.
 

@@ -1,6 +1,6 @@
 # asdftq
 
-Independent app studio homepage. Buildless HTML and CSS, system fonts, no tracking or third-party runtime dependencies.
+Independent app studio homepage. Buildless HTML and CSS, system fonts, optional consent-based Google Analytics 4, and no build step.
 
 Canonical URL: https://www.asdftq.com/
 
@@ -25,3 +25,9 @@ Submit `https://www.asdftq.com/sitemap.xml` in the `asdftq.com` Search Console d
 Ownership uses a Google verification TXT record at the domain root in Cloudflare. Keep that record after verification succeeds. Search Console reports and indexing take time to populate; sitemap submission or an indexing request does not guarantee inclusion or ranking.
 
 References: [Google canonical URL guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls), [sitemap guidance](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap), and [site-name metadata](https://developers.google.com/search/docs/appearance/site-names).
+
+## Website analytics
+
+One GA4 property (`asdftq.com`, property `559357630`, account `40330748`) and web data stream (`16145236003`, measurement ID `G-16EJGQ5TKK`) cover this whole website. Every public HTML page loads `/analytics.js` and `/analytics.css`, including generated catalog pages. Google code loads only after the visitor selects Allow analytics; No thanks keeps it unloaded. The shared script remembers the choice and exposes Analytics settings on every page. Pages remain usable without JavaScript or Analytics.
+
+Enhanced measurement is disabled on the web stream. The script strips URL query strings and fragments, abbreviates referrals, forwards only simple UTM labels, and disables Google signals and advertising personalization. It never reads form fields or installed app data. Website privacy lives at `/privacy.html`; app privacy policies remain distinct. Keep the GA include and privacy controls in new pages and the catalog generator.
