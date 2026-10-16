@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>NoBadge Updates</title>
+    <link>https://www.asdftq.com/nobadge/</link>
+    <description>Signed NoBadge updates. A purchase license is required.</description>
+    <language>en</language>
+    <item>
+      <title>NoBadge 0.1.37</title>
+      <pubDate>Fri, 16 Oct 2026 19:56:30 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Purchase license activation, secure Keychain storage, and signed in-app updates. Existing users: find your license in My Orders. Your badge settings are restored before restarting.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.37.zip" length="2531448" type="application/octet-stream" sparkle:edSignature="2T9ar+NDy9cVRXJZUQIp8WUP9R0W3yP1wZsBp1ON1xnmgrT/gtop1555THFBInT8uNSCM+tTurMK/LCPPej+Cw=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 8A3fk/Pz6rFoYi0DaUD97Ex+xKJG9AK4jA+1m3ChLnxqopc7a7jQh0qN4TgR6l7S85H9VU7gWdknW0M8RW2YCA==
+length: 1399
+-->
