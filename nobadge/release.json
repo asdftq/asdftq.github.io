@@ -1,10 +1,11 @@
 {
-  "siteRevision": 4,
+  "siteRevision": 5,
   "appVersion": "0.1.22",
-  "status": "prelaunch",
+  "status": "released",
   "priceUSD": "2.99",
   "purchaseType": "one-time",
   "merchant": "Lemon Squeezy",
-  "checkoutURL": null,
-  "saleEnabled": false
+  "checkoutURL": "https://asdftq.lemonsqueezy.com/checkout/buy/5863d7ba-944d-4dfe-97ed-a5f4be0ae82f",
+  "saleEnabled": true,
+  "releasedAt": "2026-10-16"
 }
