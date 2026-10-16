@@ -14,6 +14,6 @@ Static pages in this repo are monitored in Uptime Kuma at `https://uptime.asdftq
 
 - Repo: `asdftq/asdftq.github.io`
 - Provider: GitHub Pages
-- Pages deployment currently serves project subdirectories rather than a root homepage; `https://asdftq.github.io/` may return `404` while monitored project pages are healthy.
+- The canonical site is `https://www.asdftq.com/`, including the studio homepage and project subdirectories. The previous github.io hostname redirects to this custom domain.
 
 Add a Uptime Kuma monitor for each new public project subdirectory that should be externally reachable.

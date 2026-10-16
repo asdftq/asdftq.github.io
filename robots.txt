@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://www.asdftq.com/sitemap.xml
-Sitemap: https://www.asdftq.com/install-worthy/sitemap.xml
-Sitemap: https://www.asdftq.com/nobadge/sitemap.xml
