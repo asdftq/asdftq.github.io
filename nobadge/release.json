@@ -1,14 +1,27 @@
 {
-  "siteRevision": 10,
-  "appVersion": "0.1.37",
+  "siteRevision": 11,
+  "appVersion": "0.1.39",
   "status": "released",
   "priceUSD": "2.99",
   "purchaseType": "one-time",
   "merchant": "Lemon Squeezy",
   "checkoutURL": "https://asdftq.lemonsqueezy.com/checkout/buy/5863d7ba-944d-4dfe-97ed-a5f4be0ae82f",
   "saleEnabled": true,
-  "releasedAt": "2026-10-16",
+  "releasedAt": "2026-10-17",
   "licenseRequired": true,
   "activationLimit": 3,
-  "updateFeedURL": "https://www.asdftq.com/nobadge/updates/appcast.xml"
+  "updateFeedURL": "https://www.asdftq.com/nobadge/updates/appcast.xml",
+  "compatibility": {
+    "architecture": "arm64",
+    "supportedFamilies": [
+      "macOS 26.5.1 and later within macOS 26",
+      "macOS 27"
+    ],
+    "verifiedBuilds": [
+      "25F80",
+      "25G72",
+      "26A434"
+    ],
+    "policy": "OS-family adapter with runtime settings validation"
+  }
 }
