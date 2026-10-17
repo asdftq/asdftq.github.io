@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.37</title>
-      <pubDate>Fri, 16 Oct 2026 19:56:30 +0000</pubDate>
-      <sparkle:version>137</sparkle:version>
-      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+      <title>NoBadge 0.1.39</title>
+      <pubDate>Sat, 17 Oct 2026 10:32:49 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Purchase license activation, secure Keychain storage, and signed in-app updates. Existing users: find your license in My Orders. Your badge settings are restored before restarting.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.37.zip" length="2531448" type="application/octet-stream" sparkle:edSignature="2T9ar+NDy9cVRXJZUQIp8WUP9R0W3yP1wZsBp1ON1xnmgrT/gtop1555THFBInT8uNSCM+tTurMK/LCPPej+Cw=="></enclosure>
+      <description>&lt;p&gt;Fix automatic hiding after upgrading to macOS 27. Keep macOS 26.5.1 and later compatibility, accept stable minor/patch updates within supported OS families, and restore pending sessions across compatible upgrades. Your badge settings are restored before restarting.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.39.zip" length="2546416" type="application/octet-stream" sparkle:edSignature="wCIZQikTG+fQR3AwnMI89XJgQZhAW4ubMzftXwtj0Ox2DYqUClQ+LXw1r+G+5BDsUAsB+0SWg0tVdj1366CACg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8A3fk/Pz6rFoYi0DaUD97Ex+xKJG9AK4jA+1m3ChLnxqopc7a7jQh0qN4TgR6l7S85H9VU7gWdknW0M8RW2YCA==
-length: 1399
+edSignature: Lp/sHIMcw7thrpYBImZ2H+kXevYUsoVg6uKcOXdQtz1UWARjQWfng2b47v9i6nV/e0yIa0d2EcB04E5LWkDHCw==
+length: 1484
 -->
