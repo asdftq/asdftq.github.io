@@ -14,7 +14,7 @@ for (const name of pages) {
  assert(!/aggregateRating/.test(html),name+' no invented ratings');
  for(const j of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) schemas.push(JSON.parse(j[1]));
  for(const m of html.matchAll(/(?:src|href|poster)="([^"#]+)(?:#[^"]*)?"/g)) {
-  const ref=m[1].split('#')[0]; if(/^(https?:|mailto:)/.test(ref))continue;
+  const ref=m[1].split(/[?#]/)[0]; if(/^(https?:|mailto:)/.test(ref))continue;
   assert(fs.existsSync(ref.startsWith("/") ? path.resolve(root,"..",`.${ref}`) : path.resolve(root,ref)),name+' missing '+ref);
  }
  for(const m of html.matchAll(/<img\b([^>]+)>/g)) assert(/\balt=/.test(m[1]),name+' image alt');
