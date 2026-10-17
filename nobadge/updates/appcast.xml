@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.39</title>
-      <pubDate>Sat, 17 Oct 2026 10:32:49 +0000</pubDate>
-      <sparkle:version>139</sparkle:version>
-      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+      <title>NoBadge 0.1.40</title>
+      <pubDate>Sat, 17 Oct 2026 11:08:31 +0000</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Fix automatic hiding after upgrading to macOS 27. Keep macOS 26.5.1 and later compatibility, accept stable minor/patch updates within supported OS families, and restore pending sessions across compatible upgrades. Your badge settings are restored before restarting.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.39.zip" length="2546416" type="application/octet-stream" sparkle:edSignature="wCIZQikTG+fQR3AwnMI89XJgQZhAW4ubMzftXwtj0Ox2DYqUClQ+LXw1r+G+5BDsUAsB+0SWg0tVdj1366CACg=="></enclosure>
+      <description>&lt;p&gt;Hide the separate System Settings Dock badge on macOS 27 during Focus. Restore it with Show badges, Focus off, app exceptions, quit and updates. Preserve macOS 26 behavior, durable recovery and explicit per-OS badge adapters.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.40.zip" length="2621462" type="application/octet-stream" sparkle:edSignature="xvJs/E0fe9QVIAaVDr4Nj3MYylZT8h++kfGEkTMOD6T3GIshMmQb7UzgSePFW1JyTcGHCYQ6IQElBZn7jvzLCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Lp/sHIMcw7thrpYBImZ2H+kXevYUsoVg6uKcOXdQtz1UWARjQWfng2b47v9i6nV/e0yIa0d2EcB04E5LWkDHCw==
-length: 1484
+edSignature: LFZrbfdVEwm3xGactHJFzQdsFeo/9NDUaH/+/+7jnKzTHsCB0mrK5yas99JI/v8QZENySbvlyW7orH06Wdz6Ag==
+length: 1444
 -->

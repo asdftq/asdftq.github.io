@@ -1,6 +1,6 @@
 {
-  "siteRevision": 11,
-  "appVersion": "0.1.39",
+  "siteRevision": 12,
+  "appVersion": "0.1.40",
   "status": "released",
   "priceUSD": "2.99",
   "purchaseType": "one-time",
@@ -23,5 +23,15 @@
       "26A434"
     ],
     "policy": "OS-family adapter with runtime settings validation"
+  },
+  "badgeSupport": {
+    "notificationPreferences": [
+      "macOS 26.5.1+ within 26",
+      "macOS 27"
+    ],
+    "systemSettingsDock": [
+      "macOS 27"
+    ],
+    "otherCustomRendering": "not guaranteed"
   }
 }
