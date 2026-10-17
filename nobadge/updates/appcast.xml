@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.40</title>
-      <pubDate>Sat, 17 Oct 2026 11:08:31 +0000</pubDate>
-      <sparkle:version>140</sparkle:version>
-      <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
+      <title>NoBadge 0.1.41</title>
+      <pubDate>Sat, 17 Oct 2026 11:21:38 +0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Hide the separate System Settings Dock badge on macOS 27 during Focus. Restore it with Show badges, Focus off, app exceptions, quit and updates. Preserve macOS 26 behavior, durable recovery and explicit per-OS badge adapters.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.40.zip" length="2621462" type="application/octet-stream" sparkle:edSignature="xvJs/E0fe9QVIAaVDr4Nj3MYylZT8h++kfGEkTMOD6T3GIshMmQb7UzgSePFW1JyTcGHCYQ6IQElBZn7jvzLCg=="></enclosure>
+      <description>&lt;p&gt;Fix a System Settings Dock badge that could remain visible in 0.1.40 by targeting its actual preference storage. Recover earlier changes before switching sources. Preserve macOS 26 behavior, app exceptions and safe badge restoration.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.41.zip" length="2625363" type="application/octet-stream" sparkle:edSignature="ovBCCw0sAWwIuIP/OeouI/9nNlxv7Pi5ERYEUwoIsJK83bopB80vFWpljw/q8aImj+kqeZBS3s2DFDQ4c1VHAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LFZrbfdVEwm3xGactHJFzQdsFeo/9NDUaH/+/+7jnKzTHsCB0mrK5yas99JI/v8QZENySbvlyW7orH06Wdz6Ag==
-length: 1444
+edSignature: j1/4Np/efpnZnnBm3ArqyxzZMvWM4CBe2ZPwH0Hmq1BqzCckZHuaUqNm3s31FwBy+pts35j57aKAZ9lfqW1DBA==
+length: 1452
 -->

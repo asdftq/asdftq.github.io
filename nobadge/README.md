@@ -19,3 +19,5 @@ Deploy canonical main and the matching explicit cherry-pick to gh-pages, then ve
 0.1.39 adds macOS 27 and preserves macOS 26.5.1+ compatibility. Stable minor/patch updates use explicit OS-family profiles and runtime validation. Direct runtime evidence: 25F80, 25G72 and 26A434 on Apple Silicon; family support is distinct from testing every build. Future major versions, beta builds and Intel require explicit support. README, landing copy, SoftwareApplication metadata, support, badge guide and release.json share this policy. Existing screenshots retain their capture versions above.
 
 Site revision 12 accompanies 0.1.40. System Settings Dock attention badges use a separately journaled path on macOS 27. macOS 26 retains notification-only support. The support guide names both paths and distinguishes the Dock badge from in-window system notices and unsupported custom rendering.
+
+Site revision 13 accompanies 0.1.41. It corrects the sandbox/non-container preference selection bug in 0.1.40; the owner confirmed the actual Dock badge disappeared. Current support starts at 0.1.41, and the guide directs affected 0.1.40 users to update.
