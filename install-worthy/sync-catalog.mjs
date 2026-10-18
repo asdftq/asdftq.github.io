@@ -23,7 +23,7 @@ for (const p of projects) {
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light">
 <title>${esc(p.name)} — Install Worthy</title><meta name="description" content="${esc(p.description)}"><link rel="canonical" href="${url}"><link rel="stylesheet" href="../styles.css?v=20260907-apps">
 <meta property="og:title" content="${esc(p.name)}"><meta property="og:description" content="${esc(p.description)}"><meta property="og:url" content="${url}"><meta property="og:type" content="website">
-<script type="application/ld+json">${json(schema)}</script><link rel="stylesheet" href="/analytics.css">
+<script type="application/ld+json">${json(schema)}</script><link rel="stylesheet" href="/analytics.css?v=20261017">
 <script src="/analytics.js" defer></script>
 </head>
 <body><main class="page-shell"><header class="masthead"><a class="wordmark" href="../">← Install Worthy</a><span class="masthead-note">Apps by Derrick Cho</span></header>
