@@ -57,6 +57,7 @@ section.outcome-features{display:grid;grid-template-columns:1fr 1fr;gap:50px;pad
 .testimonial blockquote p{margin:0;color:#405c52;font-size:20px;line-height:1.75}
 .testimonial blockquote strong{display:block;margin-bottom:20px;color:#174f48;font-size:clamp(26px,3vw,36px);font-weight:600;letter-spacing:-1px;line-height:1.25}
 .testimonial figcaption{margin-top:28px;color:#284b3d;font-size:14px;font-weight:600}
+.testimonial time{display:block;margin-top:4px;color:#607269;font-size:12px;font-weight:400}
 @media(max-width:600px){.testimonial{margin-bottom:56px;padding:30px 24px;border-radius:20px}.testimonial .eyebrow{margin-bottom:20px}.testimonial blockquote p{font-size:17px;line-height:1.7}.testimonial blockquote strong{margin-bottom:18px;letter-spacing:-.6px}.testimonial figcaption{margin-top:24px;font-size:13px}}
 
 /* Keep the native controls alongside the outcome illustrations. */
