@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.41</title>
-      <pubDate>Sat, 17 Oct 2026 11:21:38 +0000</pubDate>
-      <sparkle:version>141</sparkle:version>
-      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+      <title>NoBadge 0.1.42</title>
+      <pubDate>Sun, 18 Oct 2026 02:23:02 +0000</pubDate>
+      <sparkle:version>142</sparkle:version>
+      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Fix a System Settings Dock badge that could remain visible in 0.1.40 by targeting its actual preference storage. Recover earlier changes before switching sources. Preserve macOS 26 behavior, app exceptions and safe badge restoration.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.41.zip" length="2625363" type="application/octet-stream" sparkle:edSignature="ovBCCw0sAWwIuIP/OeouI/9nNlxv7Pi5ERYEUwoIsJK83bopB80vFWpljw/q8aImj+kqeZBS3s2DFDQ4c1VHAg=="></enclosure>
+      <description>&lt;p&gt;Fix badges staying hidden when Focus turns off during a badge update. Automatic Focus syncing stays enabled, with no manual restore needed. Also resume automatic rules after a temporary recovery pause. Existing macOS compatibility, app exceptions and purchase activation are preserved.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.42.zip" length="2625759" type="application/octet-stream" sparkle:edSignature="LYUa2q10kbsSwLIFxnpc2cS3zy/PMDomID+jeNvV/uR8GhvZpz7olCTfpThRxx4R7nYiO1JIc1xd1dlhbr6xBA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: j1/4Np/efpnZnnBm3ArqyxzZMvWM4CBe2ZPwH0Hmq1BqzCckZHuaUqNm3s31FwBy+pts35j57aKAZ9lfqW1DBA==
-length: 1452
+edSignature: DYAkhalCHTcc5lGXu0IHp4L5kzkIux2kAQxHMhssbdvLyS2Jv9GIjvfeYMOe1n0noz7AE29LIX3PZ06AzIRHBA==
+length: 1504
 -->
