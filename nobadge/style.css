@@ -50,6 +50,15 @@ section.outcome-features{display:grid;grid-template-columns:1fr 1fr;gap:50px;pad
 @media(max-width:600px){.dock-proof{padding:20px 16px;border-radius:20px}.proof-title{margin-bottom:20px}.proof-title .eyebrow{font-size:9px;letter-spacing:1px}.mac-scene{min-height:110px}.scene-label{font-size:12px}.scene-detail{font-size:10px}.surface-comparison{grid-template-columns:1fr}.surface-comparison .scene-label{flex-direction:row;align-items:baseline;gap:8px}.surface-comparison .mac-scene{min-height:190px}.surface-controls{width:100%}.surface-controls button{flex:1}.outcome-features{grid-template-columns:1fr!important;gap:42px!important}.outcome-feature>p:not(.eyebrow){min-height:0}.outcome-feature h2{font-size:29px}.outcome-feature .comparison-state{padding:16px}.demo-caption{font-size:11px}}
 @media(prefers-reduced-motion:reduce){.surface-controls button{transition:none}}
 
+/* A customer’s own words, placed after the visible badge comparison. */
+.testimonial{margin:0 0 88px;padding:48px 56px;background:#edf2e9;border:1px solid #dbe5d9;border-radius:24px}
+.testimonial .eyebrow{margin-bottom:24px;font-size:11px;letter-spacing:1.6px}
+.testimonial blockquote{margin:0;max-width:900px}
+.testimonial blockquote p{margin:0;color:#405c52;font-size:20px;line-height:1.75}
+.testimonial blockquote strong{display:block;margin-bottom:20px;color:#174f48;font-size:clamp(26px,3vw,36px);font-weight:600;letter-spacing:-1px;line-height:1.25}
+.testimonial figcaption{margin-top:28px;color:#284b3d;font-size:14px;font-weight:600}
+@media(max-width:600px){.testimonial{margin-bottom:56px;padding:30px 24px;border-radius:20px}.testimonial .eyebrow{margin-bottom:20px}.testimonial blockquote p{font-size:17px;line-height:1.7}.testimonial blockquote strong{margin-bottom:18px;letter-spacing:-.6px}.testimonial figcaption{margin-top:24px;font-size:13px}}
+
 /* Keep the native controls alongside the outcome illustrations. */
 section.product-controls{padding-top:0}
 .controls-overview{display:grid;grid-template-columns:minmax(290px,.8fr) minmax(0,1.4fr);gap:50px;align-items:center;margin-bottom:80px}
