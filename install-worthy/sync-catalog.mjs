@@ -18,7 +18,7 @@ const newsletter = index.match(/<aside class="newsletter"[\s\S]*?<\/aside>/)[0];
 for (const p of projects) {
   if (!/^[a-z0-9-]+$/.test(p.id)) throw new Error(`Invalid product id: ${p.id}`);
   const url = `${base}${p.id}/`;
-  const schema = { "@context": "https://schema.org", "@type": "SoftwareApplication", name: p.name, description: p.description, url, image: `${base}${p.icon}`, operatingSystem: p.links.map(l => l.platform === "iOS" ? "iOS, iPadOS" : l.platform).join(", "), author: { "@type": "Person", name: "Derrick Cho" }, sameAs: p.links.map(l => l.url) };
+  const schema = { "@context": "https://schema.org", "@type": "SoftwareApplication", name: p.name, description: p.description, url, image: `${base}${p.icon}`, operatingSystem: p.links.map(l => l.platform === "iOS" ? "iOS, iPadOS" : l.platform).join(", "), author: { "@type": "Organization", name: "asdftq" }, sameAs: p.links.map(l => l.url) };
   const html = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light">
 <title>${esc(p.name)} — Install Worthy</title><meta name="description" content="${esc(p.description)}"><link rel="canonical" href="${url}"><link rel="stylesheet" href="../styles.css?v=20260907-apps">
@@ -26,9 +26,9 @@ for (const p of projects) {
 <script type="application/ld+json">${json(schema)}</script><link rel="stylesheet" href="/analytics.css?v=20261017">
 <script src="/analytics.js" defer></script>
 </head>
-<body><main class="page-shell"><header class="masthead"><a class="wordmark" href="../">← Install Worthy</a><span class="masthead-note">Apps by Derrick Cho</span></header>
+<body><main class="page-shell"><header class="masthead"><a class="wordmark" href="../">← Install Worthy</a><span class="masthead-note">Apps by asdftq</span></header>
 <section class="hero" aria-labelledby="hero-title"><div class="welcome"><img class="hero-icon" src="../${esc(p.icon)}" width="96" height="96" alt="${esc(p.name)} icon"><p class="eyebrow">${esc(p.links.map(l => l.platform).join(" · "))}</p><h1 id="hero-title">${esc(p.name)}</h1><p class="hero-copy">${esc(p.description)}</p><div class="project-actions">${links(p)}</div><div class="first-step"><strong>Start here</strong><p>${esc(p.firstStep)}</p></div></div>${newsletter}</section>
-<section class="projects" aria-labelledby="about-title"><h2 id="about-title">About ${esc(p.name)}</h2><p>${esc(p.details || p.description)}</p><p>Made by Derrick Cho. Check the official store listing for current availability, compatibility, pricing, and privacy details.</p><p><a href="../#projects">Explore all apps and Chrome extensions →</a></p></section>
+<section class="projects" aria-labelledby="about-title"><h2 id="about-title">About ${esc(p.name)}</h2><p>${esc(p.details || p.description)}</p><p>Made by asdftq. Check the official store listing for current availability, compatibility, pricing, and privacy details.</p><p><a href="../#projects">Explore all apps and Chrome extensions →</a></p></section>
 <footer class="footer"><span>Newsletter signup is optional. No app account required to browse.</span><a href="https://installworthy.substack.com/subscribe">Subscribe free</a></footer></main><div class="site-data-note"><a href="/privacy.html">Website privacy</a><button type="button" data-analytics-settings hidden>Analytics settings</button></div>
 </body></html>\n`;
   mkdirSync(`${root}${p.id}`, { recursive: true });
