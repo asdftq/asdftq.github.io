@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.42</title>
-      <pubDate>Sun, 18 Oct 2026 02:23:02 +0000</pubDate>
-      <sparkle:version>142</sparkle:version>
-      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+      <title>NoBadge 0.1.43</title>
+      <pubDate>Tue, 20 Oct 2026 04:41:37 +0000</pubDate>
+      <sparkle:version>143</sparkle:version>
+      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Fix badges staying hidden when Focus turns off during a badge update. Automatic Focus syncing stays enabled, with no manual restore needed. Also resume automatic rules after a temporary recovery pause. Existing macOS compatibility, app exceptions and purchase activation are preserved.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.42.zip" length="2625759" type="application/octet-stream" sparkle:edSignature="LYUa2q10kbsSwLIFxnpc2cS3zy/PMDomID+jeNvV/uR8GhvZpz7olCTfpThRxx4R7nYiO1JIc1xd1dlhbr6xBA=="></enclosure>
+      <description>&lt;p&gt;Fix automatic restoration stopping after temporary errors. Keep recovery pending until the macOS refresh succeeds, and repair unfinished refreshes left by earlier versions without overwriting later settings. Existing macOS compatibility, app exceptions and purchase activation are preserved.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.43.zip" length="2658265" type="application/octet-stream" sparkle:edSignature="o/rFvsh7YdiTuqSVVEcoRe+5ONdEOprjJM55oCqkQLDc8jSG8fg7OHRjsznC54cY2bIDX3Qhbx29kV/CMEdLDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DYAkhalCHTcc5lGXu0IHp4L5kzkIux2kAQxHMhssbdvLyS2Jv9GIjvfeYMOe1n0noz7AE29LIX3PZ06AzIRHBA==
-length: 1504
+edSignature: z2rkoAeS3tXE4+7ZMWRLdrFnnMNJcmhhji7uYtA+nw/5X/TxjwrioeH+FlWnu3wsmow0uWEjCR58dg6AQbW8BQ==
+length: 1510
 -->
