@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.43</title>
-      <pubDate>Tue, 20 Oct 2026 04:41:37 +0000</pubDate>
-      <sparkle:version>143</sparkle:version>
-      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+      <title>NoBadge 0.1.44</title>
+      <pubDate>Tue, 20 Oct 2026 05:16:02 +0000</pubDate>
+      <sparkle:version>144</sparkle:version>
+      <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Fix automatic restoration stopping after temporary errors. Keep recovery pending until the macOS refresh succeeds, and repair unfinished refreshes left by earlier versions without overwriting later settings. Existing macOS compatibility, app exceptions and purchase activation are preserved.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.43.zip" length="2658265" type="application/octet-stream" sparkle:edSignature="o/rFvsh7YdiTuqSVVEcoRe+5ONdEOprjJM55oCqkQLDc8jSG8fg7OHRjsznC54cY2bIDX3Qhbx29kV/CMEdLDw=="></enclosure>
+      <description>&lt;p&gt;Check Focus every second by default. Choose 1, 2, 5, 10 or 30 seconds in General → Focus sync interval. Changes apply immediately, persist across restarts and also control temporary recovery retries. Keep periodic checks from interrupting active badge updates. Existing macOS compatibility, app exceptions and purchase activation are preserved.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.44.zip" length="2680219" type="application/octet-stream" sparkle:edSignature="yzYI9Zi3+1XTIVdKPeDgeESzJq2i/ivqQfM7d2yt1u5qSKDvjWkYc1rWqG5FjvMSOL+rsZJtRdIG6PgQsM+JAQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: z2rkoAeS3tXE4+7ZMWRLdrFnnMNJcmhhji7uYtA+nw/5X/TxjwrioeH+FlWnu3wsmow0uWEjCR58dg6AQbW8BQ==
-length: 1510
+edSignature: tiGAjdtPEtkM8AV62mGld5eN3lZqPg/3lNTSBtJR3mdDkhicKQtUC59RynFdwgVN+D4jqgd7BecBp2Ifz8znAQ==
+length: 1565
 -->
