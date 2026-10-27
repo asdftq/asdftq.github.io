@@ -1,0 +1,11 @@
+{
+  "app": "spinhop",
+  "version": "1.11.5",
+  "build": "38",
+  "state": "WAITING_FOR_REVIEW",
+  "release_type": "AFTER_APPROVAL",
+  "version_id": "18f143ad-f191-41a9-a3c8-ed343ae1d393",
+  "submission_id": "d3c210b8-08ce-452f-bfda-f73ef9515567",
+  "build_id": "3f433e0d-2f6d-4288-bc14-e8920a82cf38",
+  "source_commit": "b655030f3a248f799147256bedb45bffb0585711"
+}

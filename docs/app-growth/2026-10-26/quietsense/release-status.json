@@ -1,0 +1,11 @@
+{
+  "app": "quietsense",
+  "version": "1.1.4",
+  "build": "13",
+  "state": "WAITING_FOR_REVIEW",
+  "release_type": "AFTER_APPROVAL",
+  "version_id": "804d5713-00b2-427c-a449-bb575e15281c",
+  "submission_id": "79110aab-f666-4b9b-9b9d-5e365696c227",
+  "build_id": "9102af9d-5924-4296-8e6d-d1f975f0a1c2",
+  "source_commit": "6819805aadc742056ab30b9790129c773bb814d0"
+}

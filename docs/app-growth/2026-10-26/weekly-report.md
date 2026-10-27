@@ -40,3 +40,7 @@ US public iTunes Search API, first 50 results. Rank 0 means absent from the retu
 Search Console impressions/clicks, GA4 funnel events, installs, purchases and revenue have not been observed by this script. A sitemap entry is not proof of indexing. UTM links are attribution labels, not click counts.
 
 Decision dates (from 2026-10-26): day 30 = 2026-11-25; day 60 = 2026-12-25; day 90 = 2027-01-24. See each app’s success/stop criteria in its report. Do not expand SpinHop beyond one demo without evidence.
+
+## Search Console baseline added after publishing
+
+The existing domain property is accessible. Its pre-treatment Web report showed 1 click / 20 impressions site-wide (visible data October 15–24); QuietSense’s legacy index.html URL showed 0 clicks / 1 impression. These are not new guide results. SpinHop passed a live indexability test and one indexing request was accepted. See search-console-baseline.md.
