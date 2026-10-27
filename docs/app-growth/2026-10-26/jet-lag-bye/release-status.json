@@ -1,0 +1,11 @@
+{
+  "app": "jet-lag-bye",
+  "version": "1.8.7",
+  "build": "12",
+  "state": "WAITING_FOR_REVIEW",
+  "release_type": "AFTER_APPROVAL",
+  "version_id": "e5276aad-47c2-4f57-900d-0212ef528e9f",
+  "submission_id": "f2890cbc-c870-4fcd-a112-e6fd5e2d50ac",
+  "build_id": "ecae8f0e-4cd7-4c94-b3fc-37dae51ed5f2",
+  "source_commit": "be780bad9b662b159d57aefe7ec28e7e8e608acb"
+}

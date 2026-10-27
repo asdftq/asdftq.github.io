@@ -1,0 +1,37 @@
+[
+  {
+    "path": "install-worthy/icons/right-click-share.png",
+    "sha256": "b8480d05fe75a0d94815a5777542ebd933bd5eb30eeb8a97766640983245800c",
+    "matches_source": true
+  },
+  {
+    "path": "install-worthy/icons/jet-lag-bye.png",
+    "sha256": "b57acd50b89c696c62d1277ad0471edf656a0f4757f77f7a28b1bdcc8e2d3d6d",
+    "matches_source": true
+  },
+  {
+    "path": "install-worthy/icons/timerbar.png",
+    "sha256": "2d8f4cde237b5eac38d0260858fcb9f1e20eee2cb161d6e39385f1d7e2d13b58",
+    "matches_source": true
+  },
+  {
+    "path": "install-worthy/icons/spinhop.png",
+    "sha256": "620a674e7b4d68e3f2bc231f5eb636ebf3d7214ed5db360ddcc6c4a174b4cd9f",
+    "matches_source": true
+  },
+  {
+    "path": "install-worthy/icons/focus-lane.png",
+    "sha256": "0a9979cad9027c5206374225961a38ce5c734a04884f5e019b035f6a8f27fc2a",
+    "matches_source": true
+  },
+  {
+    "path": "install-worthy/icons/equilzer.png",
+    "sha256": "b306af53c0d58f5e999050e9fdd7de13fb06da60f3d9c13349845a49be8da440",
+    "matches_source": true
+  },
+  {
+    "path": "install-worthy/icons/quietsense.png",
+    "sha256": "c86429f2b21d88bac63b249f33025276992a3f7f46ec128713d58c97ea261664",
+    "matches_source": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "app": "timerbar",
+  "version": "1.4.3",
+  "build": "10",
+  "state": "WAITING_FOR_REVIEW",
+  "release_type": "AFTER_APPROVAL",
+  "version_id": "842374b2-d4e2-4337-8c3d-b34553295895",
+  "submission_id": "86c4cc3d-50c6-4f31-8f2f-b5622acf6ce2",
+  "build_id": "eb98c9d4-5597-4b54-8af7-7537d8a50acd",
+  "source_commit": "c524f7781e1c821ea9326fb1a404f05189c6f63d"
+}

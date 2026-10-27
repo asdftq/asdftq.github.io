@@ -8,3 +8,7 @@
 - Four signed Release archives/IPAs built; ASC processed all four uploaded builds as VALID. No physical-device, real purchase, ad-income, ranking improvement or conversion claim is made.
 
 Deployment, live viewports and final review states are recorded in the release status after publishing. Screenshots are evidence of the actual browser state, not app-store product screenshots.
+
+## Published readback
+
+Implementation source `f37001834697d5758090d3d12ee9a8b7864b04a0` is deployed on Pages as `031133b775e7976e43592ed3e519c196470484cb`; the exact Pages build is built and Guide integrity CI passed on both branches. All 150 live URLs passed the HTTP checker, and all seven served icons match source SHA-256. Four live hubs were inspected at desktop width and at an actual 393×852 Chrome device viewport with no horizontal overflow. The viewport helper did not resize existing Chrome tabs; the final mobile evidence uses Chrome’s existing iPhone 16 emulation, not the ineffective helper. Temporary DevTools and verification tabs are closed during cleanup.
