@@ -1,0 +1,5 @@
+Production source: TimeBar/TimerBar/TimerPreset.swift
+Environment: local macOS Swift compiler/runtime
+Checks: ineligible after two natural completions; eligible after three; a request persists cooldown across policy reinitialization.
+Result: PASS
+Correction: the earlier xcodebuild method filter executed no matching test cases; it was not counted as an executed simulator test.
