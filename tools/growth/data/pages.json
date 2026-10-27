@@ -1,0 +1,1258 @@
+[
+  {
+    "path": "/timerbar/",
+    "slug": "timerbar",
+    "kind": "hub",
+    "title": "TimerBar \u2014 Presentation timer & free online rehearsal timers",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/presentation/",
+    "slug": "timerbar",
+    "kind": "index",
+    "title": "Presentation rehearsal timers \u2014 TimerBar",
+    "scripts": []
+  },
+  {
+    "path": "/timerbar/timers/3-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "3-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/5-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "5-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/7-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "7-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/10-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "10-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/15-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "15-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/20-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "20-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/30-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "30-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/45-minute-presentation-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "45-minute presentation rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/speech/",
+    "slug": "timerbar",
+    "kind": "index",
+    "title": "Speech practice timers \u2014 TimerBar",
+    "scripts": []
+  },
+  {
+    "path": "/timerbar/timers/1-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "1-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/2-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "2-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/3-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "3-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/4-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "4-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/5-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "5-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/6-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "6-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/7-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "7-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/10-minute-speech-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "10-minute speech practice timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/pitch/",
+    "slug": "timerbar",
+    "kind": "index",
+    "title": "Pitch rehearsal timers \u2014 TimerBar",
+    "scripts": []
+  },
+  {
+    "path": "/timerbar/timers/30-second-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "30-second pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/1-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "1-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/2-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "2-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/3-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "3-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/5-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "5-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/7-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "7-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/10-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "10-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/15-minute-pitch-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "15-minute pitch rehearsal timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/meeting/",
+    "slug": "timerbar",
+    "kind": "index",
+    "title": "Meeting agenda slot timers \u2014 TimerBar",
+    "scripts": []
+  },
+  {
+    "path": "/timerbar/timers/1-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "1-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/2-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "2-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/3-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "3-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/5-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "5-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/10-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "10-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/15-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "15-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/20-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "20-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/30-minute-meeting-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "30-minute meeting agenda slot timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/classroom/",
+    "slug": "timerbar",
+    "kind": "index",
+    "title": "Classroom activity timers \u2014 TimerBar",
+    "scripts": []
+  },
+  {
+    "path": "/timerbar/timers/1-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "1-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/2-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "2-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/3-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "3-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/5-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "5-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/10-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "10-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/15-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "15-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/20-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "20-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/timerbar/timers/30-minute-classroom-timer/",
+    "slug": "timerbar",
+    "kind": "guide",
+    "title": "30-minute classroom activity timer \u2014 TimerBar",
+    "scripts": [
+      "/app-timer.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/",
+    "slug": "jet-lag-bye",
+    "kind": "hub",
+    "title": "Jet Lag Bye \u2014 Travel sleep plans & route guides",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/from-atl/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Atlanta (ATL) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-bos/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Boston (BOS) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Paris (CDG) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-dfw/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Dallas\u2013Fort Worth (DFW) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-ewr/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Newark (EWR) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-fra/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Frankfurt (FRA) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Tokyo Haneda (HND) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-iad/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Washington, DC (IAD) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-jfk/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from New York (JFK) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-lax/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Los Angeles (LAX) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from London (LHR) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-nrt/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Tokyo Narita (NRT) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-ord/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Chicago (ORD) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-sea/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Seattle (SEA) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-sfo/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from San Francisco (SFO) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/from-syd/",
+    "slug": "jet-lag-bye",
+    "kind": "index",
+    "title": "Travel sleep routes from Sydney (SYD) \u2014 Jet Lag Bye",
+    "scripts": []
+  },
+  {
+    "path": "/JetLagBye/routes/jfk-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "JFK to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-jfk/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to JFK jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lax-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LAX to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-lax/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to LAX jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sfo-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SFO to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-sfo/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to SFO jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sea-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SEA to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-sea/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to SEA jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/ord-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "ORD to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-ord/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to ORD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/bos-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "BOS to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-bos/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to BOS jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/ewr-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "EWR to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-ewr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to EWR jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/iad-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "IAD to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-iad/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to IAD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/dfw-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "DFW to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-dfw/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to DFW jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/atl-to-lhr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "ATL to LHR jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lhr-to-atl/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LHR to ATL jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/jfk-to-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "JFK to HND jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/hnd-to-jfk/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "HND to JFK jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lax-to-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LAX to HND jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/hnd-to-lax/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "HND to LAX jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sfo-to-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SFO to HND jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/hnd-to-sfo/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "HND to SFO jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sea-to-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SEA to HND jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/hnd-to-sea/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "HND to SEA jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/ord-to-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "ORD to HND jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/hnd-to-ord/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "HND to ORD jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/iad-to-hnd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "IAD to HND jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/hnd-to-iad/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "HND to IAD jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/bos-to-nrt/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "BOS to NRT jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/nrt-to-bos/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "NRT to BOS jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/jfk-to-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "JFK to CDG jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/cdg-to-jfk/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "CDG to JFK jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lax-to-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LAX to CDG jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/cdg-to-lax/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "CDG to LAX jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sfo-to-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SFO to CDG jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/cdg-to-sfo/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "CDG to SFO jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sea-to-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SEA to CDG jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/cdg-to-sea/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "CDG to SEA jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/bos-to-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "BOS to CDG jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/cdg-to-bos/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "CDG to BOS jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/atl-to-cdg/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "ATL to CDG jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/cdg-to-atl/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "CDG to ATL jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/ord-to-fra/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "ORD to FRA jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/fra-to-ord/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "FRA to ORD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/ewr-to-fra/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "EWR to FRA jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/fra-to-ewr/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "FRA to EWR jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/iad-to-fra/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "IAD to FRA jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/fra-to-iad/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "FRA to IAD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/dfw-to-fra/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "DFW to FRA jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/fra-to-dfw/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "FRA to DFW jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/lax-to-syd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "LAX to SYD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/syd-to-lax/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SYD to LAX jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/sfo-to-syd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SFO to SYD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/syd-to-sfo/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SYD to SFO jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/dfw-to-syd/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "DFW to SYD jet lag: westward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/JetLagBye/routes/syd-to-dfw/",
+    "slug": "jet-lag-bye",
+    "kind": "guide",
+    "title": "SYD to DFW jet lag: eastward travel guide",
+    "scripts": [
+      "/route-clock.js"
+    ]
+  },
+  {
+    "path": "/quietsense/",
+    "slug": "quietsense",
+    "kind": "hub",
+    "title": "QuietSense \u2014 Apartment sound checks, noise logs & city guides",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/30-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 30 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/35-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 35 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/40-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 40 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/45-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 45 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/50-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 50 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/55-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 55 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/60-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 60 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/65-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 65 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/70-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 70 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/75-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 75 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/80-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 80 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/85-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 85 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/guides/90-db/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "What does 90 dB sound like? Apartment context \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/new-york/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "New York apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/portland/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Portland apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/seattle/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Seattle apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/washington-dc/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Washington, DC apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/philadelphia/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Philadelphia apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/austin/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Austin apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/san-diego/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "San Diego apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/phoenix/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Phoenix apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/houston/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Houston apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/minneapolis/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Minneapolis apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/raleigh/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Raleigh apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/quietsense/cities/los-angeles/",
+    "slug": "quietsense",
+    "kind": "guide",
+    "title": "Los Angeles apartment noise: local guidance & logging \u2014 QuietSense",
+    "scripts": []
+  },
+  {
+    "path": "/spinhop/",
+    "slug": "spinhop",
+    "kind": "hub",
+    "title": "SpinHop \u2014 One tap, big leaps. Try the web timing demo.",
+    "scripts": [
+      "/spinhop-demo.js"
+    ]
+  }
+]

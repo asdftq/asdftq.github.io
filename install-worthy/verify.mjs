@@ -27,7 +27,7 @@ for (const p of projects) {
     const url = new URL(link.url);
     assert.equal(url.protocol, "https:");
     assert(["apps.apple.com", "chromewebstore.google.com"].includes(url.hostname));
-    assert(index.includes(link.url));
+    assert(index.includes(link.url.replaceAll("&", "&amp;")));
   }
 }
 assert(index.includes('rel="canonical" href="https://www.asdftq.com/install-worthy/"'));

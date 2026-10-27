@@ -1,0 +1,15 @@
+{
+  "offers_count": 175,
+  "us_offers": [
+    {
+      "territory": "US",
+      "attributes": {
+        "startDate": "2026-05-20",
+        "duration": "THREE_DAYS",
+        "offerMode": "FREE_TRIAL",
+        "numberOfPeriods": 1,
+        "targetSubscriptionPlanType": "UPFRONT"
+      }
+    }
+  ]
+}

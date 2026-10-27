@@ -1,0 +1,18 @@
+{
+  "data": {
+    "type": "appInfoLocalizations",
+    "id": "16ef0411-4858-458a-a7ad-272594a44678",
+    "attributes": {
+      "locale": "en-US",
+      "name": "TimerBar: Presentation Timer",
+      "subtitle": "Speech, meeting & stage clock",
+      "privacyPolicyUrl": "https://asdftq.github.io/timerbar/privacy.html"
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/16ef0411-4858-458a-a7ad-272594a44678"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/16ef0411-4858-458a-a7ad-272594a44678"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://apps.apple.com/us/app/timerbar-presentation-timer/id6744717499",
+    "status": 200,
+    "final": "https://apps.apple.com/us/app/timerbar-presentation-timer/id6744717499"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/jet-lag-bye-travel-sleep-plan/id6747702706",
+    "status": 200,
+    "final": "https://apps.apple.com/us/app/jet-lag-bye-travel-sleep-plan/id6747702706"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/quietsense-apartment-db-meter/id6771237461",
+    "status": 200,
+    "final": "https://apps.apple.com/us/app/quietsense-apartment-db-meter/id6771237461"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/spinhop-one-tap-big-leaps/id6809077488",
+    "status": 200,
+    "final": "https://apps.apple.com/us/app/spinhop-one-tap-big-leaps/id6809077488"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/gicbonipopekbhmcblkphkakdddcipfd",
+    "status": 200,
+    "final": "https://chromewebstore.google.com/detail/equilzer-%E2%80%94-private-audio/gicbonipopekbhmcblkphkakdddcipfd"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/oogmofejcfflglfjhhpgmilhohnfckcb",
+    "status": 200,
+    "final": "https://chromewebstore.google.com/detail/focus-lane-%E2%80%93-site-blocker/oogmofejcfflglfjhhpgmilhohnfckcb"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/hbmhdadlnipjfaihpdfjpknbmdfnjhnd",
+    "status": 200,
+    "final": "https://chromewebstore.google.com/detail/right-click-share/hbmhdadlnipjfaihpdfjpknbmdfnjhnd"
+  },
+  {
+    "url": "https://www.asdftq.com/quietsense/privacy.html",
+    "status": 200,
+    "final": "https://www.asdftq.com/quietsense/privacy.html"
+  },
+  {
+    "url": "https://www.asdftq.com/quietsense/terms.html",
+    "status": 200,
+    "final": "https://www.asdftq.com/quietsense/terms.html"
+  },
+  {
+    "url": "https://spinhop-mvp-2026.web.app/terms/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "status": 200,
+    "note": "Use the standard Apple EULA; the guessed SpinHop /terms/ endpoint returned 404 and is not linked."
+  }
+]

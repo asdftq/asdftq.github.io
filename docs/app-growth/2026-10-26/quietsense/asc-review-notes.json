@@ -1,0 +1,4 @@
+{
+  "id": "75b0855e-c613-4f4a-a0d8-004c6250c0dc",
+  "added_notes": "This update adds a free CSV export for the latest completed check, including the free 60-second result. In Report, tap Save this report as CSV and choose a Files destination. The CSV contains device-clock UTC timestamps, active duration, estimated average/peak, context and accuracy limits. It contains no raw audio, speech or personal address. No sign-in is required. Grant microphone permission, choose an environment and activity, then complete a check. QuietSense is not a certified/legal/safety meter. Products remain quietsense_pro_yearly and quietsense_pro_monthly; the existing yearly three-day trial is unchanged."
+}

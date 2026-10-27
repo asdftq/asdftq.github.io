@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "appInfoLocalizations",
+    "id": "34414b8d-aaa7-486b-ab43-9b28ae6fca42",
+    "attributes": {
+      "locale": "en-US",
+      "name": "SpinHop: One Tap, Big Leaps",
+      "subtitle": "Tap. Leap. Land. Try again.",
+      "privacyPolicyUrl": "https://spinhop-mvp-2026.web.app/privacy/",
+      "privacyChoicesUrl": "https://spinhop-mvp-2026.web.app/privacy/"
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/34414b8d-aaa7-486b-ab43-9b28ae6fca42"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/34414b8d-aaa7-486b-ab43-9b28ae6fca42"
+  }
+}

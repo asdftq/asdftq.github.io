@@ -12,7 +12,7 @@ Existing Firebase landing/support/privacy remain valid; no SpinHop entry existed
 
 Core loop: ride a rotating spinner, tap to leap to another, land to score; miss and retry. Native source already has seeded challenges, local progress, score sharing and a cooldown-limited review request on settled Home after completed play. No duplicate rating system.
 
-**GO for one clearly labelled, simplified timing mini-demo and listing metadata only. Zero additional SEO pages.** First screenshot communicates “one tap”; second shows a best-score chase; third invites another run. The full native game has mechanics the mini-demo deliberately omits. Cross-promotion remains a noninterruptive product specification, not an inserted advertisement in tool flows.
+**GO for one clearly labelled, simplified timing mini-demo and listing metadata only. Zero additional SEO pages.** The first two public images show native gameplay/score/Fever without a separate explanatory headline; the third is the game Home screen. The one-tap loop is therefore clearer in the new web demo and revised subtitle than in those existing images. A headline-first custom product page remains a concept, and this submission preserves the already-approved screenshot set. The full native game has mechanics the mini-demo deliberately omits. Cross-promotion remains a noninterruptive product specification, not an inserted advertisement in tool flows.
 
 ## Competition — public US Search API top ten
 

@@ -12,16 +12,17 @@ Edit [`catalog.js`](catalog.js) for project copy, first-use hints, icons, and pl
 
 Run `node install-worthy/sync-catalog.mjs` from the repository root after editing the catalog. It maintains the static catalog, product pages, and `install-worthy/sitemap.xml` from the same source. Commit the generated HTML too; hosting has no build step or dependencies. The page uses optional, consent-based GA4 through the shared `/analytics.js`; it loads no Google script before the visitor allows analytics. It uses no external fonts and works without JavaScript. Publish both `main` and `gh-pages` at <https://www.asdftq.com/install-worthy/>.
 
-## Released mobile apps (verified 2026-09-07)
+## Released mobile apps (verified 2026-10-26)
 
-Hwechul Cho ASC and the US public App Store both confirm QuietSense (6771237461, 1.1.0), Jet Lag Bye (6747702706, 1.8.0), and TimerBar (6744717499, 1.4.1). SpinHop is waiting for review; PassBasket, PronCoach, WayToSay, and TLDRFF are not released and are intentionally excluded.
+Hwechul Cho ASC and the public US App Store confirm TimerBar 1.4.2 (6744717499), Jet Lag Bye 1.8.6 (6747702706), QuietSense 1.1.3 (6771237461), and SpinHop 1.11.4 (6809077488). The catalog advertises those already-released products; update builds awaiting review are not presented as released.
 
-Icons are unmodified Apple-served 128×128 PNG renditions from the public lookup `artworkUrl512` (replace the final size with `128x128bb.png`):
+All four icons are unmodified, official Apple-served 128×128 PNG renditions. Source URLs, date and owned screenshot provenance are checked in at `../assets/apps/<product-id>/sources.json`:
 
-- QuietSense: `https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/27/98/b7279821-b062-c77b-302b-2b7d1a47dc3c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.png`
-- Jet Lag Bye: `https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/97/17/f4971794-6cbe-3b5b-5867-047fe3c407c6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.png`
-- TimerBar: `https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/2d/3d/082d3dfb-b44e-0c79-1b05-1f337107dadc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.png`
+- jet-lag-bye: `https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/52/34/175234bc-4b2a-54d2-6c15-c046554cb1ba/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.png`
+- quietsense: `https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/f6/1f/b7f61fc6-cb81-1f0e-f3d0-2405b040d28e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.png`
+- spinhop: `https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/66/cb/3966cb2f-5258-883c-19b9-e57026a38edd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.png`
+- timerbar: `https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f5/d1/2af5d1b1-f6ea-712a-34c0-a562d4293513/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.png`
 
-Native first-use links use `?installed=quietsense`, `?installed=jet-lag-bye`, or `?installed=timerbar`. They must be user-initiated, optional, and send no personal data. Adding an app here alone does not change the installed binary or App Store metadata. Use the stable product page as the App Store Marketing URL when preparing the next release.
+Stable first-use links use `?installed=quietsense`, `?installed=jet-lag-bye`, `?installed=timerbar` and `?installed=spinhop`. They are voluntary and contain no personal app data. Every recognized link shows the actual icon, product name and first step beside the free newsletter offer. New product guide/web-preview links lead to the existing canonical product hub, not a duplicate catalog.
 
-Recognized install links personalize the hero with the product's exact catalog icon, name, description, and first step. The free Substack offer appears beside the product on desktop and directly below it on mobile. Unknown or missing install identifiers show a general welcome without claiming an installation.
+`sync-catalog.mjs` generates the HTML and scoped sitemap. The generator preserves shared consent controls. Product destination links use simple UTM labels; they are attribution labels, not a record of clicks. New tools contain no app telemetry or remote runtime dependencies.

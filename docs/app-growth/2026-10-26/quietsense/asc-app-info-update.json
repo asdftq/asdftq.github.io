@@ -1,0 +1,18 @@
+{
+  "data": {
+    "type": "appInfoLocalizations",
+    "id": "e33f388b-e20d-4132-880a-9fae67f86be3",
+    "attributes": {
+      "locale": "en-US",
+      "name": "QuietSense: Apartment dB Meter",
+      "subtitle": "Noise log for your shared home",
+      "privacyPolicyUrl": "https://asdftq.github.io/quietsense/privacy.html"
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/e33f388b-e20d-4132-880a-9fae67f86be3"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/e33f388b-e20d-4132-880a-9fae67f86be3"
+  }
+}
