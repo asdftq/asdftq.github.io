@@ -1,0 +1,398 @@
+‎TimerBar: Presentation Timer App - App Store
+Search
+Today
+Games
+Apps
+Arcade
+Platform
+iPhone
+iPad
+Mac
+Vision
+Watch
+TV
+TimerBar: Presentation Timer
+Presentation Clock and Timer
+Only for iPhone
+Free · In‑App Purchases · Designed for iPhone
+Share
+1 Rating
+5.0
+Age Rating
+4+
+Years
+Category
+Productivity
+Developer
+Hwechul Cho
+Language
+EN
+English
+Size
+3
+MB
+iPhone
+TimerBar is a minimal, beautiful clock with a live progress bar. It is perfect for presentations, meetings, focus sessions, and any timed workflow.
+
+Features:
+- Set a timer by duration or end time
+- Fullscreen clock with an elegant progress bar
+- Quick start, pause, restart, and stop controls
+- Optional remaining-time display
+- Always-on display support
+- TimerBar+ customization with premium themes, fonts, and colors
+
+Stay focused and stay in control with TimerBar.
+
+Terms of Use: https://asdftq.github.io/timerbar/terms.html
+more
+Ratings & Reviews
+5.0
+out of 5
+1 Ratings
+What’s New
+Version History
+Updated for iPhone Duo with the latest iOS SDK. TimerBar adapts to the changing display while keeping your timer, saved presets, and clock preferences.
+1.4.2
+4d ago
+Improves timer preset controls so the saved-timers panel stays open while you interact with it.
+1.4.1
+Jul 16
+Adds named timers for quick switching, a faster duration editor for longer sessions, and a cleaner landscape mode with a hideable side panel.
+1.4.0
+Jun 26
+Improved timer setup and upgrade flow. End-time timers now roll to the next valid time, core controls are easier to access, and TimerBar+ purchase and restore states are clearer.
+1.3.1
+Jun 16
+Bug fixes and performance improvements.
+1.1
+05/02/2025
+1.0
+04/30/2025
+Updated for iPhone Duo with the latest iOS SDK. TimerBar adapts to the changing display while keeping your timer, saved presets, and clock preferences.
+more
+Version 1.4.2
+4d ago
+App Privacy
+App Privacy
+The developer,
+Hwechul Cho
+, indicated that the app’s privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the
+developer’s privacy policy
+.
+To help you better understand the developer’s responses, see
+Privacy Definitions and Examples
+.
+Privacy practices may vary, for example, based on the features you use or your age.
+Learn More
+Data Not Collected
+The developer does not collect any data from this app.
+The developer,
+Hwechul Cho
+, indicated that the app’s privacy practices may include handling of data as described below. For more information, see the
+developer’s privacy policy
+.
+Data Not Collected
+The developer does not collect any data from this app.
+Privacy practices may vary, for example, based on the features you use or your age.
+Learn More
+Accessibility
+Accessibility
+The developer,
+Hwechul Cho
+, indicated that this app supports the following accessibility features to help make common tasks in the app faster and easier to complete.
+Learn More
+Dark Interface
+Apply a dark color scheme to the screens, menus, and controls to reduce eye strain.
+The developer indicated that this app supports the following accessibility features.
+Learn More
+Supported Features
+Dark Interface
+Information
+Seller
+Hwechul Cho
+Size
+3 MB
+Category
+Productivity
+Compatibility
+Requires iOS 18.0 or later.
+iPhone
+Requires iOS 18.0 or later.
+Mac
+Requires macOS 15.0 or later and a Mac with Apple M1 chip or later.
+Apple Vision
+Requires visionOS 2.0 or later.
+Languages
+English
+Age Rating
+4+
+4+
+Learn More
+In-App Purchases
+Yes
+TimerBar+ Yearly
+$4.99
+TimerBar+ Monthly
+$0.99
+Learn More
+Copyright
+© Hwechul Cho
+Developer Website
+Privacy Policy
+More by Hwechul Cho
+View
+Jet Lag Bye: Travel Sleep Plan
+Arrive Rested. Adapt Faster.
+View
+QuietSense: Apartment dB Meter
+Check if your sound may carry
+View
+SpinHop: One Tap, Big Leaps
+One-tap arcade. Endless hops.
+You Might Also Like
+View
+ProgressTimer - Bar Timer
+Time, shown as a single bar.
+View
+The Presentation Timer -Simple
+Simple Performance Timer
+View
+The Presentation Timer
+Beautiful & simple timer
+View
+PresiTimer: Presentation Timer
+On Stage: Always On & Silent
+View
+Speaker Presentation Timer
+Professional Speech Stopwatch
+View
+Visual Countdown Pixel Timer
+For Studying, Workouts, Chores
+View
+Visual Timer - Focus Countdown
+Ultimate app for showing time
+View
+Visual Countdown Timer Liquid
+Hourglass for Focus Deep Study
+View
+Ultimate Focus - Visual Timer
+Pomodoro, Study, App Block
+View
+Flip Timer & stopwatch
+Use for fitness,workout,study
+United States
+Español (México)
+العربية
+Русский
+简体中文
+Français (France)
+한국어
+Português (Brazil)
+Tiếng Việt
+繁體中文 (台灣)
+Select a country or region
+Africa, Middle East, and India
+See All
+Algeria
+Angola
+Armenia
+Azerbaijan
+Bahrain
+Benin
+Botswana
+Burkina Faso
+Cameroun
+Cape Verde
+Chad
+Côte d’Ivoire
+Congo, The Democratic Republic Of The
+Egypt
+Eswatini
+Gabon
+Gambia
+Ghana
+Guinea-Bissau
+India
+Iraq
+Israel
+Jordan
+Kenya
+Kuwait
+Lebanon
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Morocco
+Mozambique
+Namibia
+Niger (English)
+Nigeria
+Oman
+Qatar
+Congo, Republic of
+Rwanda
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Seychelles
+Sierra Leone
+South Africa
+Sri Lanka
+Tajikistan
+Tanzania, United Republic Of
+Tunisia
+Turkmenistan
+United Arab Emirates
+Uganda
+Yemen
+Zambia
+Zimbabwe
+Asia Pacific
+See All
+Afghanistan
+Australia
+Bhutan
+Brunei Darussalam
+Cambodia
+中国大陆
+Fiji
+香港
+Indonesia (English)
+日本
+Kazakhstan
+대한민국
+Kyrgyzstan
+Lao People's Democratic Republic
+澳門
+Malaysia (English)
+Maldives
+Micronesia, Federated States of
+Mongolia
+Myanmar
+Nauru
+Nepal
+New Zealand
+Pakistan
+Palau
+Papua New Guinea
+Philippines
+Singapore
+Solomon Islands
+台灣
+Thailand
+Tonga
+Turkmenistan
+Uzbekistan
+Vanuatu
+Vietnam
+Europe
+See All
+Albania
+Armenia
+Österreich
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czechia
+Denmark
+Estonia
+Finland
+France (Français)
+Georgia
+Deutschland
+Greece
+Hungary
+Iceland
+Ireland
+Italia
+Kosovo
+Latvia
+Lithuania
+Luxembourg (English)
+Malta
+Moldova, Republic Of
+Montenegro
+Nederland
+North Macedonia
+Norway
+Poland
+Portugal (Português)
+Romania
+Россия
+Serbia
+Slovakia
+Slovenia
+España
+Sverige
+Schweiz
+Türkiye (English)
+Ukraine
+United Kingdom
+Latin America and the Caribbean
+See All
+Anguilla
+Antigua and Barbuda
+Argentina (Español)
+Bahamas
+Barbados
+Belize
+Bermuda
+Bolivia (Español)
+Brasil
+Virgin Islands, British
+Cayman Islands
+Chile (Español)
+Colombia (Español)
+Costa Rica (Español)
+Dominica
+República Dominicana
+Ecuador (Español)
+El Salvador (Español)
+Grenada
+Guatemala (Español)
+Guyana
+Honduras (Español)
+Jamaica
+México
+Montserrat
+Nicaragua (Español)
+Panamá
+Paraguay (Español)
+Perú
+St. Kitts and Nevis
+Saint Lucia
+St. Vincent and The Grenadines
+Suriname
+Trinidad and Tobago
+Turks and Caicos
+Uruguay (English)
+Venezuela (Español)
+The United States and Canada
+See All
+Canada (English)
+Canada (Français)
+United States
+Estados Unidos (Español México)
+الولايات المتحدة
+США
+美国 (简体中文)
+États-Unis (Français France)
+미국
+Estados Unidos (Português Brasil)
+Hoa Kỳ
+美國 (繁體中文台灣)
+Copyright © 2026
+Apple Inc.
+All rights reserved.
+Internet Service Terms
+App Store & Privacy
+Cookie Warning
+Support
