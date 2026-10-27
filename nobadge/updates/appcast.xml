@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.45</title>
-      <pubDate>Tue, 20 Oct 2026 05:41:46 +0000</pubDate>
-      <sparkle:version>145</sparkle:version>
-      <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
+      <title>NoBadge 0.1.46</title>
+      <pubDate>Tue, 27 Oct 2026 09:32:12 +0000</pubDate>
+      <sparkle:version>146</sparkle:version>
+      <sparkle:shortVersionString>0.1.46</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Fix menu bar checkmark flickering when Do Not Disturb starts or ends. Keep the last settled icon during background checks and change it when hiding or restoration finishes. Attention states still appear immediately. The 1-second default and configurable Focus sync interval are unchanged, along with macOS compatibility, app exceptions and purchase activation.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.45.zip" length="2683469" type="application/octet-stream" sparkle:edSignature="EAPsGwwXuaJwJLhxghH9vYH0MbcDkIUUhBkKBvYf+opmRGBUHP4dlGZJpTyBk0jtx/eRFNdzSfCf4reaSGyTDw=="></enclosure>
+      <description>&lt;p&gt;Fix Focus-off checks waiting behind a pending badge-suppression delay. Focus continues to be observed while a hide is waiting, and changed Focus safely preempts uncommitted suppression. The one-second default, notification settings, recovery and macOS compatibility are unchanged. macOS notification-service restart delays may still affect visible badge timing.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.46.zip" length="2687771" type="application/octet-stream" sparkle:edSignature="A6pLam7d1DTFeaLOdIldTUAXDUydu5G5BEVwY48dSOQPa78zAWExm9bOHZVg4Kgsc9C/OIHS2YWwAYGty1YkAw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: W6L2MByhr4iWBT4/al0z0hO/wcNfO+8fhe+hVgMudYMLttKvcM5XLINhjW2URJEadxfQcAyPwM7G1tJs9/4lAA==
-length: 1579
+edSignature: SIeeN22XB0e1x63kGUntf7K6RldstziWmCwO7N1OHCA50BAlbPRFly7+1oYbLEeaiGMK8gdUMJUjJeX+MumjAw==
+length: 1580
 -->
