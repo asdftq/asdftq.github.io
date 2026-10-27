@@ -52,7 +52,7 @@ def seed():
     qf = 'https://www.qantas.com/en-us/where-we-fly/international-flight-routes'
     pairs = [(a,'LHR',ba) for a in ['JFK','LAX','SFO','SEA','ORD','BOS','EWR','IAD','DFW','ATL']]
     pairs += [(a,'HND',ana) for a in ['JFK','LAX','SFO','SEA','ORD','IAD']]
-    pairs += [('BOS','NRT','https://www.jal.co.jp/jp/en/inter/route/route/')]
+    pairs += [('BOS','NRT','https://www.jal.co.jp/jp/en/info/2026/inter/north-america/second/')]
     pairs += [(a,'CDG',af) for a in ['JFK','LAX','SFO','SEA','BOS','ATL']]
     pairs += [(a,'FRA','https://www.lufthansa.com/lhg/us/en/o-d/cy-cy/frankfurt-'+city) for a,city in [
         ('ORD','chicago'),('EWR','new-york'),('IAD','washington'),('DFW','dallas-fort-worth')]]

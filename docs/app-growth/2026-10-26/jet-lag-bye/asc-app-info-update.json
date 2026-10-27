@@ -1,0 +1,18 @@
+{
+  "data": {
+    "type": "appInfoLocalizations",
+    "id": "21563864-33e3-4f80-8697-f23720a45456",
+    "attributes": {
+      "locale": "en-US",
+      "name": "Jet Lag Bye: Travel Sleep Plan",
+      "subtitle": "Sleep plans for every timezone",
+      "privacyPolicyUrl": "https://asdftq.github.io/JetLagBye/privacy.html"
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/21563864-33e3-4f80-8697-f23720a45456"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appInfoLocalizations/21563864-33e3-4f80-8697-f23720a45456"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "id": "27cf8b79-cbd1-4d6f-816a-4a59f09ea59a",
+  "added_notes": "This update adds a StoreKit review request after three naturally completed timers, only when the finished-timer controls are open. No new IAP or paywall. Free core functionality and TimerBar+ customization remain unchanged."
+}

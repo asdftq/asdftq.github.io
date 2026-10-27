@@ -1,0 +1,47 @@
+{
+  "data": {
+    "type": "appStoreVersionLocalizations",
+    "id": "b5c4a6ea-a62d-48ba-b0e4-79e00e107f42",
+    "attributes": {
+      "locale": "en-US",
+      "description": "Jet lag is not just about bedtime. Your body clock responds to the timing of sleep, bright light, caffeine, and travel across time zones.\n\nJet Lag Bye turns your itinerary and usual sleep schedule into a personalized, day-by-day adjustment plan. See what to do before departure, during your flight, and after arrival\u2014so every recommendation is clear and practical.\n\nYOUR FIRST COMPLETE PLAN IS FREE\n\nCreate your first full travel plan free as a one-time local offer, with no card required. Choose a one-way or round-trip itinerary, follow the complete recommendations, and keep the plan saved on your device. Reinstalling does not reset the offer; restored app data may preserve prior eligibility.\n\nPERSONALIZED FOR YOUR TRIP\n\n\u2022 Search by airport code, city, or address\n\u2022 Plan one-way and round-trip travel\n\u2022 Get guidance tailored to your route, flight times, and normal sleep schedule\n\u2022 Prepare before departure, manage flight day, and adapt after arrival\n\nCLEAR TIMING, NOT VAGUE ADVICE\n\n\u2022 Target sleep and wake times\n\u2022 When to seek or avoid bright light\n\u2022 Caffeine timing and cutoff guidance\n\u2022 Optional melatonin timing\n\u2022 A step-by-step travel-day timeline\n\u2022 Each action labeled with the correct departure or destination clock\n\nBUILT TO FOLLOW\n\n\u2022 Check off recommendations as you complete them\n\u2022 Revisit your saved plan and trip history\n\u2022 Save the full itinerary as an image in Photos\n\u2022 Use optional reminders to stay on schedule\n\u2022 Read comfortably in light or dark mode\n\nMORE PLANS WHEN YOU NEED THEM\n\nAfter your free itinerary, choose the access that fits your travel:\n\n\u2022 Single Trip Plan: create one additional complete travel plan with a one-time consumable purchase\n\u2022 Annual Unlimited: create unlimited one-way and round-trip plans while your subscription is active, plus access Reset Sleep for everyday schedule changes\n\nPayment is charged to your Apple Account at confirmation. Annual Unlimited renews automatically unless canceled at least 24 hours before the end of the current subscription period. You can manage or cancel it in your App Store account settings. Availability may vary by region.\n\nPRIVATE BY DESIGN\n\nNo Jet Lag Bye account is required. Your plans and sleep preferences are stored locally on your device. A non-identifying local marker remembers whether the free itinerary was used and may remain after reinstalling; device backups may preserve other local access state. Location search is used to identify places and their time zones.\n\nIMPORTANT HEALTH NOTE\n\nJet Lag Bye provides general educational guidance, not medical advice. Recommendations may not suit everyone. Consult a qualified healthcare professional before changing your sleep routine or using melatonin, and whenever you have a medical condition or concern.\n\nPRIVACY & TERMS\n\nPrivacy Policy: https://asdftq.github.io/JetLagBye/privacy.html\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "keywords": "jetlag,travel,sleep,flight,timezone,circadian,light,schedule,itinerary,trip,rest",
+      "marketingUrl": "https://www.asdftq.com/JetLagBye/",
+      "promotionalText": "Create your first complete itinerary free. See sleep, light and caffeine steps in local time, then save the full plan as an image.",
+      "supportUrl": "https://asdftq.github.io/JetLagBye/support.html",
+      "whatsNew": "Review requests now wait until you complete a travel plan and close it, so your planning stays uninterrupted."
+    },
+    "relationships": {
+      "appScreenshotSets": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/relationships/appScreenshotSets",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/appScreenshotSets"
+        }
+      },
+      "appPreviewSets": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/relationships/appPreviewSets",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/appPreviewSets"
+        }
+      },
+      "searchKeywords": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/relationships/searchKeywords",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/searchKeywords"
+        }
+      },
+      "placements": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/relationships/placements",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42/placements"
+        }
+      }
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/b5c4a6ea-a62d-48ba-b0e4-79e00e107f42"
+  }
+}

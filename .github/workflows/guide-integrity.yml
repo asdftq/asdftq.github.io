@@ -1,0 +1,27 @@
+name: Guide integrity
+on:
+  push:
+    branches: [main, gh-pages]
+    paths: ['tools/growth/**', 'app-guides.css', 'app-timer.js', 'route-clock.js', 'spinhop-demo.js', 'JetLagBye/**', 'timerbar/**', 'quietsense/**', 'spinhop/**', 'install-worthy/**', '*sitemap.xml', 'site-pages.xml']
+  pull_request:
+    paths: ['tools/growth/**', 'app-guides.css', 'app-timer.js', 'route-clock.js', 'spinhop-demo.js', 'JetLagBye/**', 'timerbar/**', 'quietsense/**', 'spinhop/**', 'install-worthy/**', '*sitemap.xml', 'site-pages.xml']
+permissions:
+  contents: read
+jobs:
+  generated-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Regenerate checked-in pages
+        run: |
+          python3 tools/growth/generate.py
+          node install-worthy/sync-catalog.mjs
+          git diff --exit-code
+      - name: Validate generated pages and scripts
+        run: |
+          node --check app-timer.js
+          node --check route-clock.js
+          node --check spinhop-demo.js
+          node --check install-worthy/catalog.js
+          node install-worthy/verify.mjs
+          python3 tools/growth/check.py

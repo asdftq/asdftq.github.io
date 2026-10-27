@@ -71,3 +71,7 @@ These are public API search observations, not on-device rankings. “Free” is 
 - No reliable search-volume, autocomplete-demand, Search Console, revenue or conversion data was obtained. Rehearsal durations and route coverage are explicitly editorial test inputs. Never relabel them as validated demand.
 
 Phase 1 is recorded before page generation. User’s current instruction authorizes implementation, release and submission; attachment-only “proposal only” text does not override that authorization. No prices, ad budgets, outreach, account creation or domains are changed.
+
+## Web-timer benchmark
+
+[Stagetimer’s presentation timer](https://stagetimer.io/use-cases/online-presentation-timer/) offers rooms, segment timers and a shareable viewer. Its free tier is meaningful competition; TimerBar’s web trial focuses on immediate rehearsal with no room creation. This is a feature comparison, not a price or conversion claim.

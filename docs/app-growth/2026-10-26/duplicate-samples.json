@@ -1,0 +1,158 @@
+{
+  "routes": [
+    {
+      "a": "/JetLagBye/routes/jfk-to-lhr/",
+      "b": "/JetLagBye/routes/lax-to-hnd/",
+      "shared_ratio": 0.52
+    },
+    {
+      "a": "/JetLagBye/routes/jfk-to-lhr/",
+      "b": "/JetLagBye/routes/syd-to-dfw/",
+      "shared_ratio": 0.586
+    },
+    {
+      "a": "/JetLagBye/routes/jfk-to-lhr/",
+      "b": "/JetLagBye/routes/cdg-to-bos/",
+      "shared_ratio": 0.62
+    },
+    {
+      "a": "/JetLagBye/routes/jfk-to-lhr/",
+      "b": "/JetLagBye/routes/ord-to-fra/",
+      "shared_ratio": 0.709
+    },
+    {
+      "a": "/JetLagBye/routes/lax-to-hnd/",
+      "b": "/JetLagBye/routes/syd-to-dfw/",
+      "shared_ratio": 0.614
+    },
+    {
+      "a": "/JetLagBye/routes/lax-to-hnd/",
+      "b": "/JetLagBye/routes/cdg-to-bos/",
+      "shared_ratio": 0.588
+    },
+    {
+      "a": "/JetLagBye/routes/lax-to-hnd/",
+      "b": "/JetLagBye/routes/ord-to-fra/",
+      "shared_ratio": 0.525
+    },
+    {
+      "a": "/JetLagBye/routes/syd-to-dfw/",
+      "b": "/JetLagBye/routes/cdg-to-bos/",
+      "shared_ratio": 0.529
+    },
+    {
+      "a": "/JetLagBye/routes/syd-to-dfw/",
+      "b": "/JetLagBye/routes/ord-to-fra/",
+      "shared_ratio": 0.592
+    },
+    {
+      "a": "/JetLagBye/routes/cdg-to-bos/",
+      "b": "/JetLagBye/routes/ord-to-fra/",
+      "shared_ratio": 0.615
+    }
+  ],
+  "timers": [
+    {
+      "a": "/timerbar/timers/3-minute-presentation-timer/",
+      "b": "/timerbar/timers/1-minute-speech-timer/",
+      "shared_ratio": 0.474
+    },
+    {
+      "a": "/timerbar/timers/3-minute-presentation-timer/",
+      "b": "/timerbar/timers/30-second-pitch-timer/",
+      "shared_ratio": 0.476
+    },
+    {
+      "a": "/timerbar/timers/3-minute-presentation-timer/",
+      "b": "/timerbar/timers/30-minute-meeting-timer/",
+      "shared_ratio": 0.401
+    },
+    {
+      "a": "/timerbar/timers/3-minute-presentation-timer/",
+      "b": "/timerbar/timers/10-minute-classroom-timer/",
+      "shared_ratio": 0.401
+    },
+    {
+      "a": "/timerbar/timers/1-minute-speech-timer/",
+      "b": "/timerbar/timers/30-second-pitch-timer/",
+      "shared_ratio": 0.472
+    },
+    {
+      "a": "/timerbar/timers/1-minute-speech-timer/",
+      "b": "/timerbar/timers/30-minute-meeting-timer/",
+      "shared_ratio": 0.401
+    },
+    {
+      "a": "/timerbar/timers/1-minute-speech-timer/",
+      "b": "/timerbar/timers/10-minute-classroom-timer/",
+      "shared_ratio": 0.401
+    },
+    {
+      "a": "/timerbar/timers/30-second-pitch-timer/",
+      "b": "/timerbar/timers/30-minute-meeting-timer/",
+      "shared_ratio": 0.402
+    },
+    {
+      "a": "/timerbar/timers/30-second-pitch-timer/",
+      "b": "/timerbar/timers/10-minute-classroom-timer/",
+      "shared_ratio": 0.398
+    },
+    {
+      "a": "/timerbar/timers/30-minute-meeting-timer/",
+      "b": "/timerbar/timers/10-minute-classroom-timer/",
+      "shared_ratio": 0.504
+    }
+  ],
+  "noise": [
+    {
+      "a": "/quietsense/cities/new-york/",
+      "b": "/quietsense/cities/portland/",
+      "shared_ratio": 0.778
+    },
+    {
+      "a": "/quietsense/cities/new-york/",
+      "b": "/quietsense/cities/houston/",
+      "shared_ratio": 0.778
+    },
+    {
+      "a": "/quietsense/cities/new-york/",
+      "b": "/quietsense/guides/30-db/",
+      "shared_ratio": 0.164
+    },
+    {
+      "a": "/quietsense/cities/new-york/",
+      "b": "/quietsense/guides/85-db/",
+      "shared_ratio": 0.164
+    },
+    {
+      "a": "/quietsense/cities/portland/",
+      "b": "/quietsense/cities/houston/",
+      "shared_ratio": 0.778
+    },
+    {
+      "a": "/quietsense/cities/portland/",
+      "b": "/quietsense/guides/30-db/",
+      "shared_ratio": 0.164
+    },
+    {
+      "a": "/quietsense/cities/portland/",
+      "b": "/quietsense/guides/85-db/",
+      "shared_ratio": 0.164
+    },
+    {
+      "a": "/quietsense/cities/houston/",
+      "b": "/quietsense/guides/30-db/",
+      "shared_ratio": 0.164
+    },
+    {
+      "a": "/quietsense/cities/houston/",
+      "b": "/quietsense/guides/85-db/",
+      "shared_ratio": 0.164
+    },
+    {
+      "a": "/quietsense/guides/30-db/",
+      "b": "/quietsense/guides/85-db/",
+      "shared_ratio": 0.654
+    }
+  ]
+}

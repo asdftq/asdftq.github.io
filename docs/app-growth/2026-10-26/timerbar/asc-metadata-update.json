@@ -1,0 +1,47 @@
+{
+  "data": {
+    "type": "appStoreVersionLocalizations",
+    "id": "7cb0ce7d-95d3-4a06-af81-c47c58177be1",
+    "attributes": {
+      "locale": "en-US",
+      "description": "TimerBar is a minimal, beautiful clock with a live progress bar. It is perfect for presentations, meetings, focus sessions, and any timed workflow.\n\nFeatures:\n- Set a timer by duration or end time\n- Fullscreen clock with an elegant progress bar\n- Quick start, pause, restart, and stop controls\n- Optional remaining-time display\n- Always-on display support\n- TimerBar+ customization with premium themes, fonts, and colors\n\nStay focused and stay in control with TimerBar.\n\nTerms of Use: https://asdftq.github.io/timerbar/terms.html",
+      "keywords": "speech,meeting,stage,clock,presenter,countdown,practice,classroom,toastmasters,agenda,focus",
+      "marketingUrl": "https://www.asdftq.com/timerbar/",
+      "promotionalText": "Rehearse your next talk with a fullscreen clock, a live progress bar and named timers. Try the free online rehearsal timer on our website.",
+      "supportUrl": "https://asdftq.github.io/timerbar/support.html",
+      "whatsNew": "TimerBar now asks for a review after you finish three timers and open the completed-timer controls. The live timer remains uninterrupted."
+    },
+    "relationships": {
+      "appScreenshotSets": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/relationships/appScreenshotSets",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/appScreenshotSets"
+        }
+      },
+      "appPreviewSets": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/relationships/appPreviewSets",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/appPreviewSets"
+        }
+      },
+      "searchKeywords": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/relationships/searchKeywords",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/searchKeywords"
+        }
+      },
+      "placements": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/relationships/placements",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1/placements"
+        }
+      }
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/7cb0ce7d-95d3-4a06-af81-c47c58177be1"
+  }
+}

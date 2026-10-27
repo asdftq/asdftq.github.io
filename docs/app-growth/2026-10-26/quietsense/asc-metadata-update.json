@@ -1,0 +1,47 @@
+{
+  "data": {
+    "type": "appStoreVersionLocalizations",
+    "id": "f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1",
+    "attributes": {
+      "locale": "en-US",
+      "description": "Worried that your TV, music, or gaming sound may carry through an apartment wall or floor?\n\nQuietSense turns your iPhone's estimated sound level into a calm, easy-to-read signal. It helps you judge when sound may carry toward a nearby room or shared boundary and what to try next. Nearby-room values are modeled from the selected space and phone reading; QuietSense does not measure another room or know exactly what another person hears.\n\nTRY ONE FREE 60-SECOND CHECK\n\nUse the core experience once before subscribing. Choose your room and activity, watch the live signal for 60 seconds, and get a simple report. No account or payment is required for the free check.\n\nBUILT FOR SHARED HOMES\n\n- Choose an apartment, house, bedroom, or office context.\n- Check TV, gaming, music, working or calls, and other common activities.\n- See a simple state, estimated dB level, recent peaks, and practical next steps.\n- Review a clear report after a check.\n- Save your latest completed check as a CSV, including UTC timestamps, active duration, estimated average/peak levels, room and activity. CSV export is available for the free check too. Timestamps follow your device clock and are not independently certified.\n\nQUIETSENSE PRO\n\nUpgrade for unlimited live checks, a fresh latest-check report after each completed session, a same-day overview when available, in-app sustained-sound warnings while live monitoring is open, calibration controls, and adjustable warning timing. Choose a monthly or yearly auto-renewable subscription. Eligible customers may receive a 3-day free trial with the yearly plan. Availability is determined by the App Store; billing terms appear before purchase.\n\nPRIVACY FIRST\n\nQuietSense processes sound level on device. It does not transcribe speech or save or upload raw audio. Reports store local summary values such as estimated sound level, room and activity choices, risk state, peaks, and timing\u2014not raw audio.\n\nIMPORTANT\n\nQuietSense provides an everyday sound-awareness estimate. It is not a certified or legal sound meter, a safety device, a medical device, or a mental health treatment. Phone placement, room shape, device hardware, and building materials can affect results.\n\nPrivacy Policy: https://asdftq.github.io/quietsense/privacy.html\n\nTerms of Use: https://asdftq.github.io/quietsense/terms.html\n\nSupport: https://asdftq.github.io/quietsense/support.html",
+      "keywords": "neighbor,noise,complaint,log,report,sound,quiet,hours,roommate,thinwall,upstairs,downstairs,peak",
+      "marketingUrl": "https://www.asdftq.com/quietsense/",
+      "promotionalText": "Try one free 60-second sound check, read its real report, and save the summary as CSV. Reference estimates only; raw audio is never saved.",
+      "supportUrl": "https://asdftq.github.io/quietsense/support.html",
+      "whatsNew": "Save your latest completed check as a CSV, including UTC times, active duration and estimated average and peak sound levels. CSV export is also available for your free 60-second check. Phone readings remain reference estimates, not certified measurements."
+    },
+    "relationships": {
+      "appScreenshotSets": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/relationships/appScreenshotSets",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/appScreenshotSets"
+        }
+      },
+      "appPreviewSets": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/relationships/appPreviewSets",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/appPreviewSets"
+        }
+      },
+      "searchKeywords": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/relationships/searchKeywords",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/searchKeywords"
+        }
+      },
+      "placements": {
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/relationships/placements",
+          "related": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1/placements"
+        }
+      }
+    },
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1"
+    }
+  },
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/appStoreVersionLocalizations/f29f5ebf-5250-4e8c-ab6d-74d34cb09bc1"
+  }
+}

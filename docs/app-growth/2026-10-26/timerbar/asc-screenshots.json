@@ -1,0 +1,204 @@
+{
+  "versionLocalizationId": "7cb0ce7d-95d3-4a06-af81-c47c58177be1",
+  "locale": "en-US",
+  "sets": [
+    {
+      "set": {
+        "type": "appScreenshotSets",
+        "id": "0c534d13-7eae-42ee-a4f8-8d7c544d8fa7",
+        "attributes": {
+          "screenshotDisplayType": "APP_IPHONE_DUO"
+        },
+        "relationships": {
+          "appScreenshots": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/appScreenshotSets/0c534d13-7eae-42ee-a4f8-8d7c544d8fa7/relationships/appScreenshots",
+              "related": "https://api.appstoreconnect.apple.com/v1/appScreenshotSets/0c534d13-7eae-42ee-a4f8-8d7c544d8fa7/appScreenshots"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appScreenshotSets/0c534d13-7eae-42ee-a4f8-8d7c544d8fa7"
+        }
+      },
+      "screenshots": [
+        {
+          "type": "appScreenshots",
+          "id": "ee7c664e-2bbf-4d04-a1a2-c38290750d10",
+          "attributes": {
+            "fileSize": 144734,
+            "fileName": "01-outer-running.jpg",
+            "sourceFileChecksum": "91044d8492811f7ccae0c8b1562742b3",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/KjQxyXm9eWHMo_dZRwxE6Q/{w}x{h}bb.{f}",
+              "width": 1398,
+              "height": 2034
+            },
+            "assetToken": "PurpleSource221/v4/b3/e2/ec/b3e2eccb-27be-b686-e04a-61d5017bd6cc/01-outer-running.jpg",
+            "assetType": "Cassatt",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/ee7c664e-2bbf-4d04-a1a2-c38290750d10"
+          }
+        },
+        {
+          "type": "appScreenshots",
+          "id": "44b6c048-276b-4369-822d-c5f9613087e1",
+          "attributes": {
+            "fileSize": 177430,
+            "fileName": "02-inner-running.jpg",
+            "sourceFileChecksum": "d9a38e1318bde6ac8a544fbc70f8d851",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/nbobVV-7kCOM48KLfq5k1g/{w}x{h}bb.{f}",
+              "width": 2007,
+              "height": 2853
+            },
+            "assetToken": "PurpleSource221/v4/5c/6e/d5/5c6ed50c-5c78-3357-6425-8fdb0b8cb0de/02-inner-running.jpg",
+            "assetType": "Cassatt",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/44b6c048-276b-4369-822d-c5f9613087e1"
+          }
+        }
+      ]
+    },
+    {
+      "set": {
+        "type": "appScreenshotSets",
+        "id": "c846aa7a-7197-4563-91e7-f9c6f16d138a",
+        "attributes": {
+          "screenshotDisplayType": "APP_IPHONE_67"
+        },
+        "relationships": {
+          "appScreenshots": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/appScreenshotSets/c846aa7a-7197-4563-91e7-f9c6f16d138a/relationships/appScreenshots",
+              "related": "https://api.appstoreconnect.apple.com/v1/appScreenshotSets/c846aa7a-7197-4563-91e7-f9c6f16d138a/appScreenshots"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/appScreenshotSets/c846aa7a-7197-4563-91e7-f9c6f16d138a"
+        }
+      },
+      "screenshots": [
+        {
+          "type": "appScreenshots",
+          "id": "e2dfe9be-7e00-4541-954f-60c4944c4943",
+          "attributes": {
+            "fileSize": 1907753,
+            "fileName": "appstore-iphone-69-imagegen-01-stay-on-time.png",
+            "sourceFileChecksum": "bd58ee18beee0ea9c0c2cc90d140fc12",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/wnT6nTdb7GOG8oOIpxET9g/{w}x{h}bb.{f}",
+              "width": 1320,
+              "height": 2868
+            },
+            "assetToken": "PurpleSource211/v4/d3/97/ab/d397ab2d-3a52-6334-6c8d-d3e2ed2bf358/appstore-iphone-69-imagegen-01-stay-on-time.png",
+            "assetType": "SortedD74ScreenShot",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/e2dfe9be-7e00-4541-954f-60c4944c4943"
+          }
+        },
+        {
+          "type": "appScreenshots",
+          "id": "431b5f61-45eb-4aec-88e1-532ddcc6275d",
+          "attributes": {
+            "fileSize": 1327703,
+            "fileName": "appstore-iphone-69-imagegen-02-progress-bar.png",
+            "sourceFileChecksum": "6329c0b3d911a07e4340c470d17553b1",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/IaS2zcbQGHUIIdMU71f7LA/{w}x{h}bb.{f}",
+              "width": 1320,
+              "height": 2868
+            },
+            "assetToken": "PurpleSource221/v4/8b/17/4a/8b174a12-7ba8-d76d-3f61-5e51016a48c8/appstore-iphone-69-imagegen-02-progress-bar.png",
+            "assetType": "SortedD74ScreenShot",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/431b5f61-45eb-4aec-88e1-532ddcc6275d"
+          }
+        },
+        {
+          "type": "appScreenshots",
+          "id": "f8673180-416c-4a67-9964-13ea13504a43",
+          "attributes": {
+            "fileSize": 880512,
+            "fileName": "appstore-iphone-69-imagegen-03-hide-clock.png",
+            "sourceFileChecksum": "ac73a17a21a8e3f744e3e7c69cfe923f",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/dmOjB1bUCIeyhwxWALX2qw/{w}x{h}bb.{f}",
+              "width": 1320,
+              "height": 2868
+            },
+            "assetToken": "PurpleSource221/v4/1f/7b/b4/1f7bb49a-d088-7a1c-d123-36225588e92c/appstore-iphone-69-imagegen-03-hide-clock.png",
+            "assetType": "SortedD74ScreenShot",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/f8673180-416c-4a67-9964-13ea13504a43"
+          }
+        },
+        {
+          "type": "appScreenshots",
+          "id": "b570055c-115c-4845-b5a3-9d37d088adff",
+          "attributes": {
+            "fileSize": 1344039,
+            "fileName": "appstore-iphone-69-imagegen-04-customize.png",
+            "sourceFileChecksum": "0ef069b574c453a55714cb0a4a60600a",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/YOXC-AsE9BDy8QnEAtKNrQ/{w}x{h}bb.{f}",
+              "width": 1320,
+              "height": 2868
+            },
+            "assetToken": "PurpleSource221/v4/ac/e5/15/ace515e2-db29-89e3-1b01-63207ae2d856/appstore-iphone-69-imagegen-04-customize.png",
+            "assetType": "SortedD74ScreenShot",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/b570055c-115c-4845-b5a3-9d37d088adff"
+          }
+        },
+        {
+          "type": "appScreenshots",
+          "id": "a499f042-0aea-4fee-be28-40b8e6aa62d8",
+          "attributes": {
+            "fileSize": 1443462,
+            "fileName": "appstore-iphone-69-imagegen-05-new-timer.png",
+            "sourceFileChecksum": "750212d897f37e88810909daef6755ad",
+            "imageAsset": {
+              "templateUrl": "https://is1-ssl.mzstatic.com/image/thumb/17hsG5VGsZ0zJGlHVisBTA/{w}x{h}bb.{f}",
+              "width": 1320,
+              "height": 2868
+            },
+            "assetToken": "PurpleSource211/v4/8b/1f/33/8b1f33d1-9269-d900-b9a1-26d6f2f69082/appstore-iphone-69-imagegen-05-new-timer.png",
+            "assetType": "SortedD74ScreenShot",
+            "assetDeliveryState": {
+              "state": "COMPLETE"
+            }
+          },
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appScreenshots/a499f042-0aea-4fee-be28-40b8e6aa62d8"
+          }
+        }
+      ]
+    }
+  ]
+}

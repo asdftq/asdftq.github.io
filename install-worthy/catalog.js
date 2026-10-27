@@ -56,8 +56,9 @@ window.INSTALL_WORTHY_CATALOG = [
     description: "Estimate everyday apartment sound levels on your iPhone, with a free 60-second room check and practical next steps.",
     firstStep: "Open QuietSense, choose your space and activity, and try your free 60-second check.",
     details: "QuietSense processes sound levels on device without saving raw audio or transcribing speech. Nearby-room values are modeled estimates, not measurements of another room. It is not a certified, legal, or safety sound meter. Unlimited checks require QuietSense Pro.",
+    guideUrl: "https://www.asdftq.com/quietsense/",
     visible: true,
-    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6771237461" }]
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6771237461?utm_source=asdftq&utm_medium=catalog&utm_campaign=quietsense&utm_content=catalog" }]
   },
   {
     id: "jet-lag-bye",
@@ -67,8 +68,9 @@ window.INSTALL_WORTHY_CATALOG = [
     description: "See your travel sleep plan in each city's local time, then save the full schedule as an image. Your first complete plan is free.",
     firstStep: "Open Jet Lag Bye, set your usual sleep schedule, and enter your trip to create your first plan.",
     details: "Plan one-way or round-trip travel with clearly labeled local times for sleep, light, and caffeine. Save a full-plan image to Photos or revisit saved plans on your device. Additional plans are available through a Single Trip Plan purchase or Annual Unlimited. Jet Lag Bye provides general educational guidance, not medical advice.",
+    guideUrl: "https://www.asdftq.com/JetLagBye/",
     visible: true,
-    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6747702706" }]
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6747702706?utm_source=asdftq&utm_medium=catalog&utm_campaign=jet-lag-bye&utm_content=catalog" }]
   },
   {
     id: "timerbar",
@@ -78,7 +80,20 @@ window.INSTALL_WORTHY_CATALOG = [
     description: "Keep presentations, meetings, and focus sessions on time with a fullscreen clock and a live progress bar.",
     firstStep: "Open TimerBar, choose a duration or end time, and start your timer.",
     details: "Set a timer by duration or end time, pause or restart it, and optionally show remaining time. TimerBar+ adds premium themes, fonts, and colors. Available for iPhone and iPad.",
+    guideUrl: "https://www.asdftq.com/timerbar/",
     visible: true,
-    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6744717499" }]
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6744717499?utm_source=asdftq&utm_medium=catalog&utm_campaign=timerbar&utm_content=catalog" }]
+  },
+  {
+    id: "spinhop",
+    shortName: "SpinHop",
+    name: "SpinHop: One Tap, Big Leaps",
+    icon: "icons/spinhop.png",
+    description: "Ride a spinning platform, time your tap, and leap toward your next landing.",
+    firstStep: "Open SpinHop, start a run, and tap when you are ready to leap to the next spinner.",
+    details: "SpinHop is a one-tap arcade game for iPhone and iPad with local progress, characters, and seeded challenges. It is free to play with advertising and optional one-time purchases. Remove Ads stops automatic between-run ads; optional rewarded videos remain available by choice. Purchases do not change jump physics.",
+    guideUrl: "https://www.asdftq.com/spinhop/",
+    visible: true,
+    links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6809077488?utm_source=asdftq&utm_medium=catalog&utm_campaign=spinhop&utm_content=catalog" }]
   }
 ];
