@@ -1,0 +1,479 @@
+‎Jet Lag Bye: Travel Sleep Plan App - App Store
+Search
+Today
+Games
+Apps
+Arcade
+Platform
+iPhone
+iPad
+Mac
+Vision
+Watch
+TV
+Jet Lag Bye: Travel Sleep Plan
+Arrive Rested. Adapt Faster.
+Only for iPhone
+Free · In‑App Purchases · Designed for iPhone. Not verified for macOS.
+Share
+1 Rating
+5.0
+Age Rating
+16+
+Years
+Category
+Travel
+Developer
+Hwechul Cho
+Language
+EN
+English
+Size
+5.1
+MB
+iPhone
+Build your first complete plan free. See sleep, light, and caffeine steps in each city's local time, then save the full itinerary as an image.
+
+Jet lag is not just about bedtime. Your body clock responds to the timing of sleep, bright light, caffeine, and travel across time zones.
+
+Jet Lag Bye turns your itinerary and usual sleep schedule into a personalized, day-by-day adjustment plan. See what to do before departure, during your flight, and after arrival—so every recommendation is clear and practical.
+
+YOUR FIRST COMPLETE PLAN IS FREE
+
+Create your first full travel plan free as a one-time local offer, with no card required. Choose a one-way or round-trip itinerary, follow the complete recommendations, and keep the plan saved on your device. Reinstalling does not reset the offer; restored app data may preserve prior eligibility.
+
+PERSONALIZED FOR YOUR TRIP
+
+• Search by airport code, city, or address
+• Plan one-way and round-trip travel
+• Get guidance tailored to your route, flight times, and normal sleep schedule
+• Prepare before departure, manage flight day, and adapt after arrival
+
+CLEAR TIMING, NOT VAGUE ADVICE
+
+• Target sleep and wake times
+• When to seek or avoid bright light
+• Caffeine timing and cutoff guidance
+• Optional melatonin timing
+• A step-by-step travel-day timeline
+• Each action labeled with the correct departure or destination clock
+
+BUILT TO FOLLOW
+
+• Check off recommendations as you complete them
+• Revisit your saved plan and trip history
+• Save the full itinerary as an image in Photos
+• Use optional reminders to stay on schedule
+• Read comfortably in light or dark mode
+
+MORE PLANS WHEN YOU NEED THEM
+
+After your free itinerary, choose the access that fits your travel:
+
+• Single Trip Plan: create one additional complete travel plan with a one-time consumable purchase
+• Annual Unlimited: create unlimited one-way and round-trip plans while your subscription is active, plus access Reset Sleep for everyday schedule changes
+
+Payment is charged to your Apple Account at confirmation. Annual Unlimited renews automatically unless canceled at least 24 hours before the end of the current subscription period. You can manage or cancel it in your App Store account settings. Availability may vary by region.
+
+PRIVATE BY DESIGN
+
+No Jet Lag Bye account is required. Your plans and sleep preferences are stored locally on your device. A non-identifying local marker remembers whether the free itinerary was used and may remain after reinstalling; device backups may preserve other local access state. Location search is used to identify places and their time zones.
+
+IMPORTANT HEALTH NOTE
+
+Jet Lag Bye provides general educational guidance, not medical advice. Recommendations may not suit everyone. Consult a qualified healthcare professional before changing your sleep routine or using melatonin, and whenever you have a medical condition or concern.
+
+PRIVACY & TERMS
+
+Privacy Policy: https://asdftq.github.io/JetLagBye/privacy.html
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+more
+Ratings & Reviews
+5.0
+out of 5
+1 Ratings
+Worth it
+11/23/2025
+Grvvty
+Clear schedule, zero guesswork, and my first morning felt amazing.
+Worth it
+11/23/2025
+Grvvty
+Clear schedule, zero guesswork, and my first morning felt amazing.
+What’s New
+Version History
+Updated for iPhone Duo with layouts that adapt as you fold and unfold. Location selection now sizes to the current app window.
+1.8.6
+5d ago
+Review requests now wait until you finish using a plan and return to the main screen. You can also rate Jet Lag Bye directly from Settings.
+1.8.5
+Oct 13
+See the next useful step in each city's local time, from preflight preparation to coffee, bright light, in-flight sleep, arrival daylight, and bedtime. Completed trips now open as saved plans.
+
+• Corrected Shanghai-to-Seattle and other cross-date-line schedule times when planning from another time zone
+• Removed conflicting caffeine windows and clarified the detailed flight timeline
+• Save your full itinerary as an image in Photos
+• Improved plan and recovery-screen readability
+• Corrected arrival times in saved trip history
+1.8.4
+Sep 29
+Discover Install Worthy, a free newsletter about useful software, through optional links in welcome and Settings. No signup is required to plan your trip.
+1.8.1
+Sep 9
+Your first complete travel itinerary is now free as a one-time local offer—one-way or round trip, with no card required.
+
+• Choose a Single Trip Plan when you need one more plan, or Annual Unlimited for unlimited travel planning
+• Keep your free plan saved and available on your device
+• Access Reset Sleep with Annual Unlimited
+• Existing Pro subscribers keep their access automatically
+• Enjoy clearer purchase details, improved reliability, and interface refinements
+1.8.0
+Aug 18
+- major bug fix
+1.6
+Mar 18
+- fixed bugs
+1.5
+Feb 3
+- new feature "Fix sleep"
+- fixed many bugs and UI/UX
+1.4
+Jan 21
+Huge updates:
+- UX improvements: now supports timeline chronicle view.
+- Fixed bugs: better sleeping schedule optimized for your bedtime.
+1.3
+12/05/2025
+- UX improvements
+- Checklist feature added
+1.2
+12/03/2025
+fix bugs & ux improvements
+1.1
+11/24/2025
+1.0
+07/02/2025
+Updated for iPhone Duo with layouts that adapt as you fold and unfold. Location selection now sizes to the current app window.
+more
+Version 1.8.6
+5d ago
+App Privacy
+App Privacy
+The developer,
+Hwechul Cho
+, indicated that the app’s privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the
+developer’s privacy policy
+.
+To help you better understand the developer’s responses, see
+Privacy Definitions and Examples
+.
+Privacy practices may vary, for example, based on the features you use or your age.
+Learn More
+Data Not Collected
+The developer does not collect any data from this app.
+The developer,
+Hwechul Cho
+, indicated that the app’s privacy practices may include handling of data as described below. For more information, see the
+developer’s privacy policy
+.
+Data Not Collected
+The developer does not collect any data from this app.
+Privacy practices may vary, for example, based on the features you use or your age.
+Learn More
+Accessibility
+The developer has not yet indicated which accessibility features this app supports.
+Learn More
+Information
+Seller
+Hwechul Cho
+Size
+5.1 MB
+Category
+Travel
+Compatibility
+Requires iOS 18.5 or later.
+iPhone
+Requires iOS 18.5 or later.
+Mac
+Requires macOS 15.5 or later and a Mac with Apple M1 chip or later.
+Apple Vision
+Requires visionOS 2.5 or later.
+Languages
+English
+Age Rating
+16+
+16+
+Learn More
+Frequent
+Medical Treatment information
+Contains
+Health or Wellness Topics
+In-App Purchases
+Yes
+Jet Lag Bye Pro - Monthly
+$4.99
+Annual Unlimited
+$24.99
+Single Trip Plan
+$9.99
+Learn More
+Copyright
+© 2025 Hwechul Cho
+Developer Website
+Privacy Policy
+More by Hwechul Cho
+View
+TimerBar: Presentation Timer
+Presentation Clock and Timer
+View
+QuietSense: Apartment dB Meter
+Check if your sound may carry
+View
+SpinHop: One Tap, Big Leaps
+One-tap arcade. Endless hops.
+You Might Also Like
+View
+JetShift: Skip Jetlag
+Shift into any timezone needed
+View
+Jet Lag Plans by JetReset
+Fly without Jet Lag
+View
+FlyWell - beat jet lag. Travel
+Smart circadian sleep planner
+View
+Jetlag - Wake up times
+Sleep recovery travel planner
+View
+Jet Lag Time Zone Shifter
+Beat Jet Lag: Circadian Plan
+View
+Flykitt
+Travel
+View
+Timeshifter
+Jet lag app
+View
+Wanderlog - Travel Planner
+Itinerary & Road Trip Guide
+View
+Dayuse.com
+Hotel rooms for the day
+View
+Etihad
+Book, Check-in & Travel Smart
+United States
+Español (México)
+العربية
+Русский
+简体中文
+Français (France)
+한국어
+Português (Brazil)
+Tiếng Việt
+繁體中文 (台灣)
+Select a country or region
+Africa, Middle East, and India
+See All
+Algeria
+Angola
+Armenia
+Azerbaijan
+Bahrain
+Benin
+Botswana
+Burkina Faso
+Cameroun
+Cape Verde
+Chad
+Côte d’Ivoire
+Congo, The Democratic Republic Of The
+Egypt
+Eswatini
+Gabon
+Gambia
+Ghana
+Guinea-Bissau
+India
+Iraq
+Israel
+Jordan
+Kenya
+Kuwait
+Lebanon
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Morocco
+Mozambique
+Namibia
+Niger (English)
+Nigeria
+Oman
+Qatar
+Congo, Republic of
+Rwanda
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Seychelles
+Sierra Leone
+South Africa
+Sri Lanka
+Tajikistan
+Tanzania, United Republic Of
+Tunisia
+Turkmenistan
+United Arab Emirates
+Uganda
+Yemen
+Zambia
+Zimbabwe
+Asia Pacific
+See All
+Afghanistan
+Australia
+Bhutan
+Brunei Darussalam
+Cambodia
+中国大陆
+Fiji
+香港
+Indonesia (English)
+日本
+Kazakhstan
+대한민국
+Kyrgyzstan
+Lao People's Democratic Republic
+澳門
+Malaysia (English)
+Maldives
+Micronesia, Federated States of
+Mongolia
+Myanmar
+Nauru
+Nepal
+New Zealand
+Pakistan
+Palau
+Papua New Guinea
+Philippines
+Singapore
+Solomon Islands
+台灣
+Thailand
+Tonga
+Turkmenistan
+Uzbekistan
+Vanuatu
+Vietnam
+Europe
+See All
+Albania
+Armenia
+Österreich
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czechia
+Denmark
+Estonia
+Finland
+France (Français)
+Georgia
+Deutschland
+Greece
+Hungary
+Iceland
+Ireland
+Italia
+Kosovo
+Latvia
+Lithuania
+Luxembourg (English)
+Malta
+Moldova, Republic Of
+Montenegro
+Nederland
+North Macedonia
+Norway
+Poland
+Portugal (Português)
+Romania
+Россия
+Serbia
+Slovakia
+Slovenia
+España
+Sverige
+Schweiz
+Türkiye (English)
+Ukraine
+United Kingdom
+Latin America and the Caribbean
+See All
+Anguilla
+Antigua and Barbuda
+Argentina (Español)
+Bahamas
+Barbados
+Belize
+Bermuda
+Bolivia (Español)
+Brasil
+Virgin Islands, British
+Cayman Islands
+Chile (Español)
+Colombia (Español)
+Costa Rica (Español)
+Dominica
+República Dominicana
+Ecuador (Español)
+El Salvador (Español)
+Grenada
+Guatemala (Español)
+Guyana
+Honduras (Español)
+Jamaica
+México
+Montserrat
+Nicaragua (Español)
+Panamá
+Paraguay (Español)
+Perú
+St. Kitts and Nevis
+Saint Lucia
+St. Vincent and The Grenadines
+Suriname
+Trinidad and Tobago
+Turks and Caicos
+Uruguay (English)
+Venezuela (Español)
+The United States and Canada
+See All
+Canada (English)
+Canada (Français)
+United States
+Estados Unidos (Español México)
+الولايات المتحدة
+США
+美国 (简体中文)
+États-Unis (Français France)
+미국
+Estados Unidos (Português Brasil)
+Hoa Kỳ
+美國 (繁體中文台灣)
+Copyright © 2026
+Apple Inc.
+All rights reserved.
+Internet Service Terms
+App Store & Privacy
+Cookie Warning
+Support
