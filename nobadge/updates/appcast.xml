@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed NoBadge updates. A purchase license is required.</description>
     <language>en</language>
     <item>
-      <title>NoBadge 0.1.47</title>
-      <pubDate>Mon, 02 Nov 2026 19:29:14 +0000</pubDate>
-      <sparkle:version>147</sparkle:version>
-      <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
+      <title>NoBadge 0.1.48</title>
+      <pubDate>Mon, 02 Nov 2026 23:54:13 +0000</pubDate>
+      <sparkle:version>148</sparkle:version>
+      <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Add Help &amp;amp; Recovery → Recover missing badges. Review the saved apps and confirm recovery to restore their badge settings and refresh macOS. Automatic hiding stays off afterward. Without saved originals, recovery refreshes macOS without enabling additional badges. Pending System Settings recovery still uses its existing adapter; completed system-attention counters and custom app-drawn badges are outside this recovery. macOS compatibility is unchanged.&lt;/p&gt;</description>
-      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.47.zip" length="2767227" type="application/octet-stream" sparkle:edSignature="9GVwtoOk0qBz55nqr2XIyPR6HDgtx/mAIsS/EzXqarUOqh5j5oqntu2dTDeAQLTGk4etjjt7XD4J0fTuSQ1JAQ=="></enclosure>
+      <description>&lt;p&gt;Fix badge restoration being rejected when macOS removes a legacy Messages service registration. The real Messages settings remain verified. Also fix premature badge restoration completion. NoBadge now keeps recovery pending until the macOS notification service has restarted and both cached and stored badge settings are verified. Original settings remain available for retry if verification fails. Quick hide/show actions may take a moment while macOS restarts its notification service. The explicit Recover missing badges option and supported macOS families are unchanged.&lt;/p&gt;</description>
+      <enclosure url="https://www.asdftq.com/nobadge/updates/NoBadge-0.1.48.zip" length="2773369" type="application/octet-stream" sparkle:edSignature="XqhA8sQt+urr5oTDFPyqvg6yOagNE5l/SQVybpX6lbI7BVlVtYYZ1kE51n5XYOSad6IQaP3OYkx+DzOcVU0+CQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: v2eLR3Wsij6z/L9KVLLDHv278PcSi3rutKXxGjFrC+d+emwVPzeYH4aVEhTOWur5E698mzz2Dpd7tMOlrrfMDw==
-length: 1683
+edSignature: Dk7sRscOaW8ZJb9u133tDPcOOfrBrf7BkWney5wQYKAcaInEDAW5URcWSAbnJ5SGex8Mxa7+gk73reGPXP4GBw==
+length: 1793
 -->

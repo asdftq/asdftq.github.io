@@ -1,6 +1,6 @@
 {
-  "siteRevision": 19,
-  "appVersion": "0.1.47",
+  "siteRevision": 20,
+  "appVersion": "0.1.48",
   "status": "released",
   "priceUSD": "2.99",
   "purchaseType": "one-time",
@@ -40,5 +40,10 @@
     "scope": "saved registered-app badge settings and pending System Settings recovery",
     "automaticHidingAfterRecovery": false,
     "withoutSavedSettings": "refresh only"
+  },
+  "badgeRestoration": {
+    "fixedIn": "0.1.48",
+    "completion": "notification service running and cached/stored badge settings verified",
+    "onFailure": "retain original settings for retry"
   }
 }
