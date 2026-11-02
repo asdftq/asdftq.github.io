@@ -1,13 +1,13 @@
 {
-  "siteRevision": 18,
-  "appVersion": "0.1.46",
+  "siteRevision": 19,
+  "appVersion": "0.1.47",
   "status": "released",
   "priceUSD": "2.99",
   "purchaseType": "one-time",
   "merchant": "Lemon Squeezy",
   "checkoutURL": "https://asdftq.lemonsqueezy.com/checkout/buy/5863d7ba-944d-4dfe-97ed-a5f4be0ae82f",
   "saleEnabled": true,
-  "releasedAt": "2026-10-27",
+  "releasedAt": "2026-11-02",
   "licenseRequired": true,
   "activationLimit": 3,
   "updateFeedURL": "https://www.asdftq.com/nobadge/updates/appcast.xml",
@@ -33,5 +33,12 @@
       "macOS 27"
     ],
     "otherCustomRendering": "not guaranteed"
+  },
+  "badgeRecovery": {
+    "availableSince": "0.1.47",
+    "action": "Help & Recovery \u2192 Recover missing badges",
+    "scope": "saved registered-app badge settings and pending System Settings recovery",
+    "automaticHidingAfterRecovery": false,
+    "withoutSavedSettings": "refresh only"
   }
 }
