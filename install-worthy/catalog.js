@@ -53,9 +53,9 @@ window.INSTALL_WORTHY_CATALOG = [
     shortName: "QuietSense",
     name: "QuietSense: Apartment dB Meter",
     icon: "icons/quietsense.png",
-    description: "Estimate everyday apartment sound levels on your iPhone, with a free 60-second room check and practical next steps.",
+    description: "Try a free 60-second apartment sound check on your iPhone, read your report, then choose whether Pro fits your home.",
     firstStep: "Open QuietSense, choose your space and activity, and try your free 60-second check.",
-    details: "QuietSense processes sound levels on device without saving raw audio or transcribing speech. Nearby-room values are modeled estimates, not measurements of another room. It is not a certified, legal, or safety sound meter. Unlimited checks require QuietSense Pro.",
+    details: "Free checks need no subscription or payment, and the latest report can be saved as CSV. QuietSense processes sound levels on device without saving raw audio or transcribing speech. Nearby-room values are modeled estimates, not measurements of another room. It is not a certified, legal, or safety sound meter. Pro adds unlimited checks and in-app warnings.",
     guideUrl: "https://www.asdftq.com/quietsense/",
     visible: true,
     links: [{ platform: "iOS", action: "Get on the App Store", url: "https://apps.apple.com/app/id6771237461?utm_source=asdftq&utm_medium=catalog&utm_campaign=quietsense&utm_content=catalog" }]
